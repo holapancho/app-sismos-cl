@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <title>Sismos Chile</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="barra">
+    <h1>Sismos Chile</h1>
+    <div class="barra-derecha">
+      <div class="toggle" role="group" aria-label="Vista del mapa">
+        <button id="btn-ahora" class="toggle-btn activo" type="button">Ahora</button>
+        <button id="btn-historico" class="toggle-btn" type="button">Histórico</button>
+      </div>
+      <button id="btn-info" class="info-btn" type="button" aria-haspopup="dialog" aria-controls="modal-info" title="Acerca de este proyecto">ⓘ</button>
+    </div>
+  </header>
+
+  <div id="controles-historico" class="controles-historico oculto">
+    <label for="filtro-historico">Ver:</label>
+    <select id="filtro-historico">
+      <option value="agrupado" selected>Agrupado por zona</option>
+      <option value="este_anio">Este año</option>
+      <option value="anio_anterior">Año anterior</option>
+    </select>
+  </div>
+
+  <div id="mensaje" class="mensaje oculto"></div>
+
+  <main id="map"></main>
+
+  <footer id="leyenda" class="leyenda">
+    <span class="leyenda-item"><i style="background:#2ecc71"></i> M 2.5–4.5</span>
+    <span class="leyenda-item"><i style="background:#f1c40f"></i> M 4.5–5.5</span>
+    <span class="leyenda-item"><i style="background:#e67e22"></i> M 5.5–6.5</span>
+    <span class="leyenda-item"><i style="background:#e74c3c"></i> M 6.5+</span>
+  </footer>
+
+  <div id="modal-info" class="modal-overlay oculto" role="dialog" aria-modal="true" aria-labelledby="modal-info-titulo">
+    <div class="modal-caja">
+      <button id="btn-cerrar-info" class="modal-cerrar" type="button" aria-label="Cerrar">×</button>
+      <h2 id="modal-info-titulo">Acerca de este proyecto</h2>
+      <p>Mapa interactivo de sismos en Chile, en tiempo real e histórico. Proyecto de portafolio, sitio 100% estático (sin backend).</p>
+
+      <h3>Fuente de datos</h3>
+      <p>Todos los sismos provienen de la API pública de <a href="https://earthquake.usgs.gov/fdsnws/event/1/" target="_blank" rel="noopener">USGS (United States Geological Survey)</a>, filtrada a territorio chileno continental, insular cercano e Isla de Pascua.</p>
+
+      <h3>Cómo se procesó el histórico</h3>
+      <p>Los ~10 años de sismos históricos (magnitud ≥ 4.0) se agrupan con <strong>HDBSCAN</strong>, un algoritmo de clustering que detecta zonas de mayor actividad sísmica sin forzar un número o tamaño de zona fijo — más apropiado que KMeans o DBSCAN para una franja sísmica continua como la de Chile. También se marca si un sismo probablemente fue una réplica de otro (ocurrió a menos de 1 hora del anterior en la misma zona).</p>
+
+      <p><strong>Importante:</strong> este mapa es descriptivo, no predictivo. Muestra dónde ha habido más actividad sísmica históricamente — no predice cuándo, dónde o con qué magnitud ocurrirá un próximo sismo.</p>
+
+      <p>¿Te sirvió este proyecto? <a href="https://www.paypal.com/donate/?business=roja_chenp%40hotmail.com" target="_blank" rel="noopener">Invítame un café ☕</a></p>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
