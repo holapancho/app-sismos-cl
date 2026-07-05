@@ -1,6 +1,6 @@
 # Exploración de clustering
 
-Scripts usados para decidir qué algoritmo de clustering usar en el pipeline final (`scripts/actualizar_historico.py`, aún por escribir). Cada uno tiene un docstring con el detalle de qué se probó y qué se encontró.
+Scripts usados para decidir qué algoritmo de clustering usar en el pipeline final (`scripts/actualizar_historico.py`). Cada uno tiene un docstring con el detalle de qué se probó y qué se encontró.
 
 Orden de lectura:
 
@@ -9,7 +9,7 @@ Orden de lectura:
 3. `afinar_eps.py` — intento de elegir `eps` con el método del codo (hallazgo negativo: no aplica a este dominio).
 4. `hdbscan_exploracion.py` — solución final adoptada.
 
-**Conclusión:** se usa `HDBSCAN(min_cluster_size=20, min_samples=8)` en vez de KMeans/DBSCAN, porque la sismicidad chilena es un gradiente de densidad continuo a lo largo de la fosa, no zonas separables por un radio fijo. Detalle completo de la decisión en [`PROMPT_INICIAL.md`](../../PROMPT_INICIAL.md).
+**Conclusión:** se usa `HDBSCAN(min_cluster_size=20, min_samples=8)` en vez de KMeans/DBSCAN, porque la sismicidad chilena es un gradiente de densidad continuo a lo largo de la fosa, no zonas separables por un radio fijo. Detalle completo de la decisión en [`DECISIONES.md`](../../DECISIONES.md).
 
 ## Variables de entrada
 

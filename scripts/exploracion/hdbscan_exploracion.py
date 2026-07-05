@@ -23,10 +23,9 @@ hotspot de mayor densidad que habia encontrado el KDE de forma independiente
 en explorar_clustering_v2.py (lat=-24.11, lon=-67.02) - validacion cruzada
 entre dos metodos distintos.
 
-Decision final para el pipeline de produccion (scripts/actualizar_historico.py,
-aun por escribir): HDBSCAN(min_cluster_size=20, min_samples=8) sobre [lat, lon]
-estandarizados con StandardScaler. Ver PROMPT_INICIAL.md para el detalle
-completo de la decision.
+Decision final para el pipeline de produccion (scripts/actualizar_historico.py):
+HDBSCAN(min_cluster_size=20, min_samples=8) sobre [lat, lon] estandarizados
+con StandardScaler. Ver DECISIONES.md para el detalle completo de la decision.
 """
 
 import requests
