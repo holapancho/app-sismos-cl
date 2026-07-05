@@ -1,8 +1,10 @@
 # Sismos Chile
 
-Mapa interactivo de sismos en Chile, en tiempo real e histórico, con una capa de Machine Learning para detectar zonas de mayor actividad sísmica. Proyecto de portafolio 100% estático (sin backend), pensado para desplegarse en GitHub Pages.
+Mapa interactivo de sismos en Chile, en tiempo real e histórico, con una capa de Machine Learning para detectar zonas de mayor actividad sísmica. Proyecto de portafolio 100% estático (sin backend).
 
-**Estado actual:** en construcción. Ya están listos el pipeline de datos históricos (`scripts/actualizar_historico.py`) y el frontend (`index.html`/`app.js`); falta la automatización semanal (GitHub Actions) para que el histórico se actualice solo. Ver [`DECISIONES.md`](DECISIONES.md) para el detalle técnico completo y el registro de qué se decidió y por qué.
+🔗 **Sitio en vivo:** https://holapancho.github.io/app-sismos-cl/
+
+**Estado actual:** desplegado y funcionando. Pipeline de datos históricos, frontend y automatización semanal (GitHub Actions) están completos y probados en producción. Ver [`DECISIONES.md`](DECISIONES.md) para el detalle técnico completo y el registro de qué se decidió y por qué.
 
 ## Qué hace
 
@@ -29,7 +31,7 @@ Esto descarga el histórico de USGS, aplica el clustering, y genera `data/histor
 
 1. Repo público en GitHub (necesario para que GitHub Actions sea gratis sin límite de minutos).
 2. Settings → Pages → Source: "Deploy from a branch" (rama `main`, carpeta `/root`).
-3. Settings → Actions → General → "Workflow permissions" → habilitar "Read and write permissions" (necesario para que el cron semanal pueda commitear el JSON actualizado).
+3. El workflow (`.github/workflows/actualizar-sismos.yml`) ya declara `permissions: contents: write`, así que no hace falta tocar manualmente "Workflow permissions" en Settings → Actions — confirmado corriendo el workflow con `workflow_dispatch`.
 
 ## Autor
 

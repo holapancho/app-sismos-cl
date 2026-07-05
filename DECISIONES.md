@@ -169,9 +169,12 @@ Si la API de USGS falla (timeout, error HTTP, respuesta vacía) durante la corri
 └── DECISIONES.md              # este archivo
 ```
 
-## Estado actual / pendiente
+## Estado actual
 
 - [x] Exploración de clustering (`scripts/exploracion/`)
 - [x] `scripts/actualizar_historico.py`
 - [x] `index.html`, `css/style.css`, `js/app.js`
-- [ ] `.github/workflows/actualizar-sismos.yml`
+- [x] `.github/workflows/actualizar-sismos.yml` — probado con `workflow_dispatch`, corrió en ~25s y commiteó los datos actualizados automáticamente
+- [x] Desplegado en GitHub Pages: https://holapancho.github.io/app-sismos-cl/
+
+Proyecto funcionalmente completo. Próximos pasos serían mejoras incrementales, no piezas faltantes.
