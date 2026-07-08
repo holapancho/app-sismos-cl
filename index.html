@@ -8,27 +8,27 @@
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <header class="barra">
+  <header class="barra" role="banner">
     <h1>Sismos Chile</h1>
-    <div class="barra-derecha">
-      <div class="toggle" role="group" aria-label="Vista del mapa">
-        <button id="btn-ahora" class="toggle-btn activo" type="button">Ahora</button>
-        <button id="btn-historico" class="toggle-btn" type="button">Histórico</button>
+    <nav aria-label="Vista del mapa">
+      <div class="toggle">
+        <button id="btn-ahora" class="toggle-btn activo" type="button" aria-selected="true">Ahora</button>
+        <button id="btn-historico" class="toggle-btn" type="button" aria-selected="false">Histórico</button>
       </div>
-      <button id="btn-info" class="info-btn" type="button" aria-haspopup="dialog" aria-controls="modal-info" title="Acerca de este proyecto">ⓘ</button>
-    </div>
+    </nav>
+    <button id="btn-info" class="info-btn" type="button" aria-haspopup="dialog" aria-controls="modal-info" title="Acerca de este proyecto">ⓘ</button>
   </header>
 
-  <div id="controles-historico" class="controles-historico oculto">
+  <section id="controles-historico" class="controles-historico oculto" aria-label="Filtros históricos">
     <label for="filtro-historico">Ver:</label>
     <select id="filtro-historico">
       <option value="agrupado" selected>Agrupado por zona</option>
       <option value="este_anio">Este año</option>
       <option value="anio_anterior">Año anterior</option>
     </select>
-  </div>
+  </section>
 
-  <div id="mensaje" class="mensaje oculto"></div>
+  <div id="mensaje" class="mensaje oculto" role="status" aria-live="polite"></div>
 
   <main id="map"></main>
 

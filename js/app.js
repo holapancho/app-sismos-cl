@@ -254,6 +254,18 @@ function actualizarVistaHistorico() {
 function activarVista(vista) {
   document.getElementById("btn-ahora").classList.toggle("activo", vista === "ahora");
   document.getElementById("btn-historico").classList.toggle("activo", vista === "historico");
+  
+  // Actualizar aria-selected para lectores de pantalla
+  const btnAhora = document.getElementById("btn-ahora");
+  const btnHistorico = document.getElementById("btn-historico");
+  if (vista === "ahora") {
+    btnAhora.setAttribute('aria-selected', 'true');
+    btnHistorico.setAttribute('aria-selected', 'false');
+  } else {
+    btnAhora.setAttribute('aria-selected', 'false');
+    btnHistorico.setAttribute('aria-selected', 'true');
+  }
+  
   document.getElementById("controles-historico").classList.toggle("oculto", vista !== "historico");
   ocultarMensaje();
 
@@ -280,22 +292,67 @@ document.getElementById("filtro-historico").addEventListener("change", (evento) 
 });
 
 const modalInfo = document.getElementById("modal-info");
+const modalOverlay = modalInfo.parentElement;
+const btnCerrar = document.getElementById("btn-cerrar-info");
+const btnInfo = document.getElementById("btn-info");
+
+function trampaFoco(modal) {
+  const focusableSelectors = 'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])';
+  const elementosEnfocables = modal.querySelectorAll(focusableSelectors);
+  
+  if (elementosEnfocables.length === 0) return;
+
+  const primerElemento = elementosEnfocables[0];
+  const ultimoElemento = elementosEnfocables[elementosEnfocables.length - 1];
+
+  function manejarTab(evento) {
+    if (evento.key !== 'Tab') return;
+
+    if (evento.shiftKey && evento.target === primerElemento) {
+      evento.preventDefault();
+      ultimoElemento.focus();
+    } else if (!evento.shiftKey && evento.target === ultimoElemento) {
+      evento.preventDefault();
+      primerElemento.focus();
+    }
+  }
+
+  modal.addEventListener('keydown', manejarTab);
+
+  return () => modal.removeEventListener('keydown', manejarTab);
+}
 
 function abrirModalInfo() {
   modalInfo.classList.remove("oculto");
+  modalOverlay.removeAttribute('aria-hidden');
+  
+  // Trampa de foco: cuando se abre, enfocar el botón cerrar y capturar Tab
+  const removerListener = trampaFoco(modalOverlay);
+  
+  btnCerrar.focus();
 }
 
 function cerrarModalInfo() {
   modalInfo.classList.add("oculto");
+  modalOverlay.setAttribute('aria-hidden', 'true');
+  
+  // Restaurar foco al contenedor del mapa después de un breve delay para que sea visible
+  setTimeout(() => document.getElementById("map").focus(), 10);
 }
 
 document.getElementById("btn-info").addEventListener("click", abrirModalInfo);
 document.getElementById("btn-cerrar-info").addEventListener("click", cerrarModalInfo);
-modalInfo.addEventListener("click", (evento) => {
-  if (evento.target === modalInfo) cerrarModalInfo();
+modalOverlay.addEventListener("click", (evento) => {
+  if (evento.target === modalOverlay && evento.target !== modalInfo) cerrarModalInfo();
 });
+
+// Escuchar Escape para cerrar el modal
 document.addEventListener("keydown", (evento) => {
-  if (evento.key === "Escape" && !modalInfo.classList.contains("oculto")) cerrarModalInfo();
+  const modalActivo = !modalInfo.classList.contains("oculto");
+  if (evento.key === "Escape" && modalActivo) {
+    btnCerrar.focus(); // Mantener foco dentro del modal antes de cerrarlo
+    cerrarModalInfo();
+  }
 });
 
 activarVista("ahora");
