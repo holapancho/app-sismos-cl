@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generado": "2026-08-16T00:39:26Z",
+    "generado": "2026-08-23T00:40:37Z",
     "fuente": "https://earthquake.usgs.gov/fdsnws/event/1/query",
     "rango_fechas": {
-      "desde": "2016-08-18",
-      "hasta": "2026-08-16"
+      "desde": "2016-08-25",
+      "hasta": "2026-08-23"
     },
     "clustering": {
       "algoritmo": "HDBSCAN",
@@ -12,49 +12,49 @@
       "min_samples": 8
     },
     "criterio_posible_replica": "cluster != -1 y menos de 1 hora(s) desde el evento anterior del mismo cluster",
-    "total_eventos": 8505,
-    "total_clusters": 59
+    "total_eventos": 8499,
+    "total_clusters": 58
   },
   "clusters": [
     {
-      "id": 41,
+      "id": 40,
       "region": "continental",
-      "lat": -24.1471,
-      "lon": -67.0551,
-      "n": 1042,
+      "lat": -24.147,
+      "lon": -67.0544,
+      "n": 1044,
       "mag_media": 4.36,
       "mag_max": 6.4,
-      "fecha_ultimo_evento": "2026-08-08T12:44:22Z"
+      "fecha_ultimo_evento": "2026-08-20T03:09:06Z"
     },
     {
-      "id": 57,
+      "id": 56,
       "region": "continental",
-      "lat": -21.9039,
-      "lon": -68.5985,
-      "n": 403,
+      "lat": -21.9066,
+      "lon": -68.5997,
+      "n": 405,
       "mag_media": 4.37,
       "mag_max": 6.2,
-      "fecha_ultimo_evento": "2026-08-07T07:22:26Z"
+      "fecha_ultimo_evento": "2026-08-22T18:46:27Z"
     },
     {
-      "id": 9,
+      "id": 11,
       "region": "continental",
-      "lat": -32.1157,
-      "lon": -69.4263,
-      "n": 402,
+      "lat": -32.117,
+      "lon": -69.4315,
+      "n": 404,
       "mag_media": 4.44,
       "mag_max": 6.4,
       "fecha_ultimo_evento": "2026-08-02T22:07:05Z"
     },
     {
-      "id": 58,
+      "id": 57,
       "region": "continental",
-      "lat": -21.1761,
-      "lon": -68.7575,
-      "n": 289,
+      "lat": -21.1753,
+      "lon": -68.7572,
+      "n": 290,
       "mag_media": 4.29,
       "mag_max": 5.4,
-      "fecha_ultimo_evento": "2026-08-08T16:34:53Z"
+      "fecha_ultimo_evento": "2026-08-20T07:48:15Z"
     },
     {
       "id": 4,
@@ -67,17 +67,17 @@
       "fecha_ultimo_evento": "2026-07-06T12:43:14Z"
     },
     {
-      "id": 39,
+      "id": 38,
       "region": "continental",
-      "lat": -22.8029,
-      "lon": -66.3391,
-      "n": 147,
+      "lat": -22.8013,
+      "lon": -66.3389,
+      "n": 148,
       "mag_media": 4.4,
       "mag_max": 6.0,
-      "fecha_ultimo_evento": "2026-06-28T17:34:17Z"
+      "fecha_ultimo_evento": "2026-08-22T00:03:40Z"
     },
     {
-      "id": 50,
+      "id": 49,
       "region": "continental",
       "lat": -17.7535,
       "lon": -69.7084,
@@ -87,77 +87,77 @@
       "fecha_ultimo_evento": "2026-08-12T18:28:30Z"
     },
     {
-      "id": 54,
+      "id": 53,
       "region": "continental",
-      "lat": -20.1816,
-      "lon": -69.1379,
-      "n": 111,
+      "lat": -20.1797,
+      "lon": -69.1395,
+      "n": 110,
       "mag_media": 4.37,
       "mag_max": 6.1,
       "fecha_ultimo_evento": "2026-08-03T06:56:36Z"
     },
     {
-      "id": 35,
+      "id": 34,
       "region": "continental",
-      "lat": -33.1133,
-      "lon": -72.0776,
-      "n": 108,
+      "lat": -33.1148,
+      "lon": -72.0794,
+      "n": 107,
       "mag_media": 4.5,
       "mag_max": 6.9,
       "fecha_ultimo_evento": "2026-07-29T14:36:52Z"
     },
     {
-      "id": 27,
+      "id": 25,
       "region": "continental",
-      "lat": -30.0919,
-      "lon": -72.1013,
-      "n": 106,
+      "lat": -30.0915,
+      "lon": -72.0993,
+      "n": 105,
       "mag_media": 4.47,
       "mag_max": 6.4,
       "fecha_ultimo_evento": "2026-07-31T17:47:05Z"
     },
     {
-      "id": 28,
+      "id": 27,
       "region": "continental",
-      "lat": -27.9167,
-      "lon": -71.414,
-      "n": 104,
+      "lat": -27.9109,
+      "lon": -71.4136,
+      "n": 103,
       "mag_media": 4.53,
       "mag_max": 6.8,
       "fecha_ultimo_evento": "2026-07-22T09:34:22Z"
     },
     {
-      "id": 40,
+      "id": 39,
       "region": "continental",
-      "lat": -30.7445,
-      "lon": -71.4544,
-      "n": 103,
+      "lat": -30.7457,
+      "lon": -71.4533,
+      "n": 102,
       "mag_media": 4.45,
       "mag_max": 6.2,
       "fecha_ultimo_evento": "2026-06-13T12:04:14Z"
     },
     {
-      "id": 42,
+      "id": 41,
       "region": "continental",
-      "lat": -23.3508,
-      "lon": -66.8136,
-      "n": 97,
+      "lat": -23.3472,
+      "lon": -66.8123,
+      "n": 96,
       "mag_media": 4.35,
       "mag_max": 5.2,
       "fecha_ultimo_evento": "2026-06-12T17:54:29Z"
     },
     {
-      "id": 30,
+      "id": 33,
       "region": "continental",
-      "lat": -21.432,
-      "lon": -66.7636,
-      "n": 96,
+      "lat": -21.4779,
+      "lon": -66.7698,
+      "n": 90,
       "mag_media": 4.39,
       "mag_max": 5.4,
       "fecha_ultimo_evento": "2026-05-31T12:37:12Z"
     },
     {
-      "id": 44,
+      "id": 43,
       "region": "continental",
       "lat": -30.4826,
       "lon": -71.6687,
@@ -169,9 +169,9 @@
     {
       "id": 26,
       "region": "continental",
-      "lat": -33.9212,
-      "lon": -72.3665,
-      "n": 83,
+      "lat": -33.9242,
+      "lon": -72.3679,
+      "n": 82,
       "mag_media": 4.52,
       "mag_max": 6.0,
       "fecha_ultimo_evento": "2026-06-03T22:36:06Z"
@@ -187,11 +187,11 @@
       "fecha_ultimo_evento": "2026-07-26T17:29:13Z"
     },
     {
-      "id": 22,
+      "id": 21,
       "region": "continental",
-      "lat": -20.0215,
-      "lon": -70.9395,
-      "n": 80,
+      "lat": -20.0168,
+      "lon": -70.9409,
+      "n": 78,
       "mag_media": 4.46,
       "mag_max": 5.5,
       "fecha_ultimo_evento": "2026-05-14T22:06:27Z"
@@ -207,11 +207,11 @@
       "fecha_ultimo_evento": "2026-03-13T14:58:59Z"
     },
     {
-      "id": 29,
+      "id": 28,
       "region": "continental",
-      "lat": -28.7293,
-      "lon": -71.5077,
-      "n": 70,
+      "lat": -28.7263,
+      "lon": -71.507,
+      "n": 71,
       "mag_media": 4.56,
       "mag_max": 6.6,
       "fecha_ultimo_evento": "2026-06-30T08:26:16Z"
@@ -227,7 +227,7 @@
       "fecha_ultimo_evento": "2026-07-02T16:35:09Z"
     },
     {
-      "id": 31,
+      "id": 30,
       "region": "continental",
       "lat": -31.7787,
       "lon": -71.5715,
@@ -237,11 +237,11 @@
       "fecha_ultimo_evento": "2026-05-17T02:41:41Z"
     },
     {
-      "id": 15,
+      "id": 14,
       "region": "continental",
-      "lat": -18.4756,
-      "lon": -71.1096,
-      "n": 63,
+      "lat": -18.4814,
+      "lon": -71.1187,
+      "n": 62,
       "mag_media": 4.37,
       "mag_max": 6.0,
       "fecha_ultimo_evento": "2026-05-29T05:32:43Z"
@@ -257,17 +257,7 @@
       "fecha_ultimo_evento": "2026-07-02T00:25:19Z"
     },
     {
-      "id": 23,
-      "region": "continental",
-      "lat": -21.201,
-      "lon": -69.9535,
-      "n": 59,
-      "mag_media": 4.31,
-      "mag_max": 6.2,
-      "fecha_ultimo_evento": "2026-05-30T05:48:47Z"
-    },
-    {
-      "id": 11,
+      "id": 10,
       "region": "continental",
       "lat": -27.9286,
       "lon": -69.2095,
@@ -277,7 +267,17 @@
       "fecha_ultimo_evento": "2026-07-03T16:03:52Z"
     },
     {
-      "id": 18,
+      "id": 22,
+      "region": "continental",
+      "lat": -21.2036,
+      "lon": -69.9486,
+      "n": 58,
+      "mag_media": 4.31,
+      "mag_max": 6.2,
+      "fecha_ultimo_evento": "2026-05-30T05:48:47Z"
+    },
+    {
+      "id": 17,
       "region": "continental",
       "lat": -22.4732,
       "lon": -70.3856,
@@ -287,7 +287,7 @@
       "fecha_ultimo_evento": "2026-06-22T13:18:42Z"
     },
     {
-      "id": 49,
+      "id": 48,
       "region": "continental",
       "lat": -22.0756,
       "lon": -67.315,
@@ -299,45 +299,45 @@
     {
       "id": 8,
       "region": "continental",
-      "lat": -31.655,
-      "lon": -67.2076,
-      "n": 50,
-      "mag_media": 4.46,
+      "lat": -31.6499,
+      "lon": -67.2197,
+      "n": 51,
+      "mag_media": 4.45,
       "mag_max": 6.0,
       "fecha_ultimo_evento": "2026-06-05T06:54:48Z"
     },
     {
       "id": 12,
       "region": "continental",
-      "lat": -35.3383,
-      "lon": -71.2283,
-      "n": 49,
-      "mag_media": 4.41,
+      "lat": -35.3392,
+      "lon": -71.2363,
+      "n": 50,
+      "mag_media": 4.4,
       "mag_max": 6.3,
       "fecha_ultimo_evento": "2026-06-20T19:45:25Z"
     },
     {
-      "id": 19,
-      "region": "continental",
-      "lat": -25.7418,
-      "lon": -70.977,
-      "n": 46,
-      "mag_media": 4.45,
-      "mag_max": 5.7,
-      "fecha_ultimo_evento": "2026-06-07T19:40:58Z"
-    },
-    {
-      "id": 33,
+      "id": 31,
       "region": "continental",
       "lat": -31.7378,
-      "lon": -72.1109,
-      "n": 46,
-      "mag_media": 4.32,
+      "lon": -72.1065,
+      "n": 47,
+      "mag_media": 4.31,
       "mag_max": 5.9,
       "fecha_ultimo_evento": "2026-06-02T09:53:45Z"
     },
     {
-      "id": 25,
+      "id": 18,
+      "region": "continental",
+      "lat": -25.7236,
+      "lon": -70.9759,
+      "n": 45,
+      "mag_media": 4.44,
+      "mag_max": 5.7,
+      "fecha_ultimo_evento": "2026-06-07T19:40:58Z"
+    },
+    {
+      "id": 24,
       "region": "continental",
       "lat": -19.5123,
       "lon": -70.1328,
@@ -347,7 +347,7 @@
       "fecha_ultimo_evento": "2026-07-22T02:03:50Z"
     },
     {
-      "id": 37,
+      "id": 36,
       "region": "continental",
       "lat": -32.6024,
       "lon": -71.8236,
@@ -357,7 +357,7 @@
       "fecha_ultimo_evento": "2026-07-23T07:48:53Z"
     },
     {
-      "id": 17,
+      "id": 16,
       "region": "continental",
       "lat": -19.1207,
       "lon": -67.0834,
@@ -367,7 +367,17 @@
       "fecha_ultimo_evento": "2026-03-24T02:03:10Z"
     },
     {
-      "id": 36,
+      "id": 32,
+      "region": "continental",
+      "lat": -29.5244,
+      "lon": -71.3277,
+      "n": 43,
+      "mag_media": 4.49,
+      "mag_max": 5.8,
+      "fecha_ultimo_evento": "2026-03-04T11:48:34Z"
+    },
+    {
+      "id": 35,
       "region": "continental",
       "lat": -32.1349,
       "lon": -71.8652,
@@ -377,27 +387,17 @@
       "fecha_ultimo_evento": "2026-06-08T06:13:52Z"
     },
     {
-      "id": 34,
+      "id": 15,
       "region": "continental",
-      "lat": -29.5166,
-      "lon": -71.3272,
-      "n": 42,
-      "mag_media": 4.46,
-      "mag_max": 5.8,
-      "fecha_ultimo_evento": "2026-03-04T11:48:34Z"
-    },
-    {
-      "id": 16,
-      "region": "continental",
-      "lat": -34.7883,
-      "lon": -71.8041,
+      "lat": -34.7889,
+      "lon": -71.8047,
       "n": 38,
       "mag_media": 4.39,
       "mag_max": 5.5,
-      "fecha_ultimo_evento": "2026-07-28T05:38:44Z"
+      "fecha_ultimo_evento": "2026-07-28T05:38:43Z"
     },
     {
-      "id": 56,
+      "id": 55,
       "region": "continental",
       "lat": -20.8517,
       "lon": -69.0708,
@@ -409,25 +409,25 @@
     {
       "id": 5,
       "region": "continental",
-      "lat": -34.6423,
-      "lon": -73.7573,
-      "n": 36,
-      "mag_media": 4.5,
+      "lat": -34.6062,
+      "lon": -73.7345,
+      "n": 34,
+      "mag_media": 4.51,
       "mag_max": 5.5,
       "fecha_ultimo_evento": "2026-07-19T14:25:06Z"
     },
     {
-      "id": 48,
+      "id": 47,
       "region": "continental",
-      "lat": -22.3327,
-      "lon": -67.5969,
-      "n": 35,
-      "mag_media": 4.29,
+      "lat": -22.3355,
+      "lon": -67.5939,
+      "n": 34,
+      "mag_media": 4.3,
       "mag_max": 5.3,
       "fecha_ultimo_evento": "2026-08-08T14:20:51Z"
     },
     {
-      "id": 46,
+      "id": 45,
       "region": "continental",
       "lat": -21.322,
       "lon": -67.259,
@@ -437,27 +437,17 @@
       "fecha_ultimo_evento": "2025-07-26T18:38:34Z"
     },
     {
-      "id": 55,
+      "id": 51,
       "region": "continental",
-      "lat": -20.515,
-      "lon": -68.8754,
+      "lat": -19.2268,
+      "lon": -69.394,
       "n": 33,
-      "mag_media": 4.26,
-      "mag_max": 4.7,
-      "fecha_ultimo_evento": "2026-06-04T21:59:25Z"
-    },
-    {
-      "id": 52,
-      "region": "continental",
-      "lat": -19.2168,
-      "lon": -69.3951,
-      "n": 32,
-      "mag_media": 4.43,
+      "mag_media": 4.42,
       "mag_max": 5.5,
       "fecha_ultimo_evento": "2026-05-06T11:25:51Z"
     },
     {
-      "id": 20,
+      "id": 19,
       "region": "continental",
       "lat": -17.4918,
       "lon": -70.6424,
@@ -467,17 +457,27 @@
       "fecha_ultimo_evento": "2026-02-07T12:37:47Z"
     },
     {
-      "id": 32,
+      "id": 54,
       "region": "continental",
-      "lat": -23.2622,
-      "lon": -67.8322,
-      "n": 29,
+      "lat": -20.5093,
+      "lon": -68.875,
+      "n": 31,
+      "mag_media": 4.25,
+      "mag_max": 4.6,
+      "fecha_ultimo_evento": "2026-06-04T21:59:25Z"
+    },
+    {
+      "id": 29,
+      "region": "continental",
+      "lat": -23.2682,
+      "lon": -67.8273,
+      "n": 28,
       "mag_media": 4.58,
       "mag_max": 7.4,
       "fecha_ultimo_evento": "2026-07-30T16:17:54Z"
     },
     {
-      "id": 53,
+      "id": 52,
       "region": "continental",
       "lat": -19.639,
       "lon": -69.2737,
@@ -487,7 +487,7 @@
       "fecha_ultimo_evento": "2026-01-02T18:49:36Z"
     },
     {
-      "id": 10,
+      "id": 9,
       "region": "continental",
       "lat": -29.2865,
       "lon": -69.552,
@@ -497,27 +497,17 @@
       "fecha_ultimo_evento": "2026-05-13T10:18:42Z"
     },
     {
-      "id": 24,
+      "id": 23,
       "region": "continental",
-      "lat": -27.1106,
-      "lon": -71.1947,
-      "n": 26,
-      "mag_media": 4.46,
+      "lat": -27.088,
+      "lon": -71.1943,
+      "n": 25,
+      "mag_media": 4.47,
       "mag_max": 5.5,
       "fecha_ultimo_evento": "2026-05-04T08:22:01Z"
     },
     {
-      "id": 0,
-      "region": "continental",
-      "lat": -51.6049,
-      "lon": -72.7447,
-      "n": 25,
-      "mag_media": 4.45,
-      "mag_max": 5.4,
-      "fecha_ultimo_evento": "2026-04-15T02:38:27Z"
-    },
-    {
-      "id": 43,
+      "id": 42,
       "region": "continental",
       "lat": -30.0683,
       "lon": -71.3547,
@@ -527,7 +517,7 @@
       "fecha_ultimo_evento": "2025-03-20T04:35:26Z"
     },
     {
-      "id": 47,
+      "id": 46,
       "region": "continental",
       "lat": -21.0379,
       "lon": -67.4372,
@@ -537,27 +527,27 @@
       "fecha_ultimo_evento": "2025-09-02T20:21:21Z"
     },
     {
-      "id": 14,
+      "id": 0,
       "region": "continental",
-      "lat": -25.6657,
-      "lon": -69.3316,
-      "n": 23,
-      "mag_media": 4.36,
-      "mag_max": 5.1,
-      "fecha_ultimo_evento": "2025-08-15T23:39:32Z"
+      "lat": -51.6134,
+      "lon": -72.6348,
+      "n": 24,
+      "mag_media": 4.46,
+      "mag_max": 5.4,
+      "fecha_ultimo_evento": "2026-04-15T02:38:27Z"
     },
     {
-      "id": 21,
+      "id": 20,
       "region": "continental",
-      "lat": -20.8482,
-      "lon": -70.6205,
-      "n": 23,
-      "mag_media": 4.45,
+      "lat": -20.8331,
+      "lon": -70.6195,
+      "n": 24,
+      "mag_media": 4.47,
       "mag_max": 5.5,
       "fecha_ultimo_evento": "2025-07-27T04:28:59Z"
     },
     {
-      "id": 38,
+      "id": 37,
       "region": "continental",
       "lat": -23.6548,
       "lon": -68.0891,
@@ -567,44 +557,44 @@
       "fecha_ultimo_evento": "2025-11-26T10:53:45Z"
     },
     {
-      "id": 2,
-      "region": "continental",
-      "lat": -17.6633,
-      "lon": -72.7786,
-      "n": 21,
-      "mag_media": 4.54,
-      "mag_max": 5.5,
-      "fecha_ultimo_evento": "2025-01-18T21:40:15Z"
-    },
-    {
       "id": 13,
       "region": "continental",
-      "lat": -24.477,
-      "lon": -70.1493,
-      "n": 20,
-      "mag_media": 4.58,
-      "mag_max": 5.4,
-      "fecha_ultimo_evento": "2026-01-12T07:57:32Z"
+      "lat": -25.6779,
+      "lon": -69.3389,
+      "n": 22,
+      "mag_media": 4.37,
+      "mag_max": 5.1,
+      "fecha_ultimo_evento": "2025-08-15T23:39:32Z"
     },
     {
-      "id": 45,
+      "id": 2,
       "region": "continental",
-      "lat": -22.8607,
-      "lon": -68.1189,
-      "n": 20,
-      "mag_media": 4.62,
+      "lat": -17.6745,
+      "lon": -72.7599,
+      "n": 21,
+      "mag_media": 4.48,
+      "mag_max": 5.5,
+      "fecha_ultimo_evento": "2025-08-25T09:40:28Z"
+    },
+    {
+      "id": 44,
+      "region": "continental",
+      "lat": -22.8655,
+      "lon": -68.1282,
+      "n": 21,
+      "mag_media": 4.6,
       "mag_max": 5.7,
       "fecha_ultimo_evento": "2025-09-29T01:58:42Z"
     },
     {
-      "id": 51,
+      "id": 50,
       "region": "continental",
-      "lat": -22.9811,
-      "lon": -68.8959,
-      "n": 20,
-      "mag_media": 4.4,
+      "lat": -22.9628,
+      "lon": -68.8939,
+      "n": 21,
+      "mag_media": 4.42,
       "mag_max": 5.1,
-      "fecha_ultimo_evento": "2025-12-02T02:36:29Z"
+      "fecha_ultimo_evento": "2026-07-23T01:56:00Z"
     }
   ]
 }
