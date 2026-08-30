@@ -1,175 +1,6 @@
 {
   "eventos": [
     {
-      "id": "us20006u1h",
-      "lat": -21.8072,
-      "lon": -67.376,
-      "depth": 210.03,
-      "mag": 4.0,
-      "magType": "mb",
-      "fecha": "2016-08-25T20:45:32Z",
-      "place": "148 km NE of San Pedro de Atacama, Chile",
-      "region": "continental",
-      "cluster": 48,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006u5y",
-      "lat": -25.0899,
-      "lon": -70.7144,
-      "depth": 57.65,
-      "mag": 4.2,
-      "magType": "mb",
-      "fecha": "2016-08-26T10:08:35Z",
-      "place": "42 km NNW of Taltal, Chile",
-      "region": "continental",
-      "cluster": -1,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006udm",
-      "lat": -29.6023,
-      "lon": -72.1041,
-      "depth": 10.0,
-      "mag": 4.0,
-      "magType": "mwr",
-      "fecha": "2016-08-26T21:00:48Z",
-      "place": "83 km WNW of Coquimbo, Chile",
-      "region": "continental",
-      "cluster": 25,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006uma",
-      "lat": -32.7701,
-      "lon": -71.7105,
-      "depth": 27.82,
-      "mag": 4.4,
-      "magType": "mb",
-      "fecha": "2016-08-27T19:36:08Z",
-      "place": "30 km NNW of Valparaíso, Chile",
-      "region": "continental",
-      "cluster": -1,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006umh",
-      "lat": -38.0739,
-      "lon": -73.3524,
-      "depth": 23.9,
-      "mag": 4.9,
-      "magType": "mwr",
-      "fecha": "2016-08-27T20:14:11Z",
-      "place": "30 km S of Cañete, Chile",
-      "region": "continental",
-      "cluster": -1,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006uqs",
-      "lat": -36.882,
-      "lon": -73.433,
-      "depth": 34.5,
-      "mag": 4.2,
-      "magType": "mb",
-      "fecha": "2016-08-28T04:50:39Z",
-      "place": "31 km WNW of Coronel, Chile",
-      "region": "continental",
-      "cluster": 4,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006usm",
-      "lat": -35.6944,
-      "lon": -73.3965,
-      "depth": 20.05,
-      "mag": 4.4,
-      "magType": "mb",
-      "fecha": "2016-08-28T11:43:54Z",
-      "place": "97 km WSW of Constitución, Chile",
-      "region": "continental",
-      "cluster": 4,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006utw",
-      "lat": -27.68,
-      "lon": -71.226,
-      "depth": 35.0,
-      "mag": 4.6,
-      "magType": "mwr",
-      "fecha": "2016-08-28T16:32:04Z",
-      "place": "94 km WSW of Copiapó, Chile",
-      "region": "continental",
-      "cluster": -1,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006ux1",
-      "lat": -18.4242,
-      "lon": -69.8321,
-      "depth": 121.27,
-      "mag": 4.6,
-      "magType": "mb",
-      "fecha": "2016-08-29T01:27:20Z",
-      "place": "49 km E of Arica, Chile",
-      "region": "continental",
-      "cluster": -1,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006uxv",
-      "lat": -30.6643,
-      "lon": -71.3861,
-      "depth": 49.06,
-      "mag": 4.3,
-      "magType": "mb",
-      "fecha": "2016-08-29T04:04:38Z",
-      "place": "19 km WSW of Ovalle, Chile",
-      "region": "continental",
-      "cluster": 39,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006v1t",
-      "lat": -22.258,
-      "lon": -68.564,
-      "depth": 116.8,
-      "mag": 4.2,
-      "magType": "mb",
-      "fecha": "2016-08-29T14:16:48Z",
-      "place": "43 km ENE of Calama, Chile",
-      "region": "continental",
-      "cluster": -1,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006v8s",
-      "lat": -34.8956,
-      "lon": -72.555,
-      "depth": 14.2,
-      "mag": 5.4,
-      "magType": "mww",
-      "fecha": "2016-08-30T08:09:09Z",
-      "place": "50 km NNW of Constitución, Chile",
-      "region": "continental",
-      "cluster": -1,
-      "posible_replica": false
-    },
-    {
-      "id": "us20006vfx",
-      "lat": -26.1213,
-      "lon": -70.4734,
-      "depth": 48.74,
-      "mag": 4.4,
-      "magType": "mb",
-      "fecha": "2016-08-30T18:09:49Z",
-      "place": "50 km WNW of Diego de Almagro, Chile",
-      "region": "continental",
-      "cluster": -1,
-      "posible_replica": false
-    },
-    {
       "id": "us10006jmd",
       "lat": -24.134,
       "lon": -67.3221,
@@ -439,7 +270,7 @@
       "fecha": "2016-09-08T13:59:06Z",
       "place": "103 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -543,7 +374,7 @@
       "fecha": "2016-09-13T08:28:55Z",
       "place": "87 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -881,7 +712,7 @@
       "fecha": "2016-09-26T02:57:39Z",
       "place": "70 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -907,7 +738,7 @@
       "fecha": "2016-09-27T10:19:40Z",
       "place": "Off the coast of Valparaiso, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -1011,7 +842,7 @@
       "fecha": "2016-10-01T10:25:57Z",
       "place": "77 km WNW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -1271,7 +1102,7 @@
       "fecha": "2016-10-10T12:21:19Z",
       "place": "88 km WNW of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -1700,7 +1531,7 @@
       "fecha": "2016-10-27T20:32:55Z",
       "place": "88 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -1713,7 +1544,7 @@
       "fecha": "2016-10-27T22:09:29Z",
       "place": "96 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -1752,7 +1583,7 @@
       "fecha": "2016-10-29T22:01:39Z",
       "place": "94 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -1817,7 +1648,7 @@
       "fecha": "2016-10-31T11:15:47Z",
       "place": "85 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -1830,7 +1661,7 @@
       "fecha": "2016-10-31T21:04:52Z",
       "place": "79 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -1999,7 +1830,7 @@
       "fecha": "2016-11-04T16:33:47Z",
       "place": "12 km WSW of San Pedro de Atacama, Chile",
       "region": "continental",
-      "cluster": 44,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -2220,7 +2051,7 @@
       "fecha": "2016-11-11T03:16:54Z",
       "place": "77 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -2532,7 +2363,7 @@
       "fecha": "2016-11-18T17:11:32Z",
       "place": "74 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -2857,7 +2688,7 @@
       "fecha": "2016-11-27T00:31:23Z",
       "place": "95 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -2870,7 +2701,7 @@
       "fecha": "2016-11-27T00:54:55Z",
       "place": "100 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": true
     },
     {
@@ -3442,7 +3273,7 @@
       "fecha": "2016-12-17T17:54:03Z",
       "place": "109 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -4209,7 +4040,7 @@
       "fecha": "2017-01-03T18:43:48Z",
       "place": "98 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -4222,7 +4053,7 @@
       "fecha": "2017-01-03T20:16:37Z",
       "place": "91 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -4365,7 +4196,7 @@
       "fecha": "2017-01-07T04:21:54Z",
       "place": "101 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -4391,7 +4222,7 @@
       "fecha": "2017-01-08T00:33:48Z",
       "place": "84 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -4989,7 +4820,7 @@
       "fecha": "2017-01-26T12:37:02Z",
       "place": "80 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -5314,7 +5145,7 @@
       "fecha": "2017-02-07T03:17:27Z",
       "place": "80 km WNW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -5522,7 +5353,7 @@
       "fecha": "2017-02-16T07:02:05Z",
       "place": "77 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -6172,7 +6003,7 @@
       "fecha": "2017-03-10T06:22:20Z",
       "place": "84 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -6224,7 +6055,7 @@
       "fecha": "2017-03-11T15:15:36Z",
       "place": "82 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -6237,7 +6068,7 @@
       "fecha": "2017-03-11T19:07:29Z",
       "place": "78 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -6380,7 +6211,7 @@
       "fecha": "2017-03-16T07:05:11Z",
       "place": "72 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -6744,7 +6575,7 @@
       "fecha": "2017-03-25T21:50:21Z",
       "place": "22 km S of Londres, Argentina",
       "region": "continental",
-      "cluster": 7,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -7290,7 +7121,7 @@
       "fecha": "2017-04-12T20:09:49Z",
       "place": "62 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -7693,7 +7524,7 @@
       "fecha": "2017-04-20T01:28:21Z",
       "place": "101 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -7758,7 +7589,7 @@
       "fecha": "2017-04-22T22:46:42Z",
       "place": "48 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -7771,7 +7602,7 @@
       "fecha": "2017-04-22T23:57:11Z",
       "place": "45 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -7784,7 +7615,7 @@
       "fecha": "2017-04-23T01:49:11Z",
       "place": "42 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -7797,7 +7628,7 @@
       "fecha": "2017-04-23T02:36:07Z",
       "place": "37 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -7810,7 +7641,7 @@
       "fecha": "2017-04-23T02:42:17Z",
       "place": "36 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -7823,7 +7654,7 @@
       "fecha": "2017-04-23T02:43:18Z",
       "place": "30 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -7836,7 +7667,7 @@
       "fecha": "2017-04-23T02:52:37Z",
       "place": "37 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -7849,7 +7680,7 @@
       "fecha": "2017-04-23T03:00:11Z",
       "place": "45 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -7862,7 +7693,7 @@
       "fecha": "2017-04-23T03:02:16Z",
       "place": "35 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -7875,7 +7706,7 @@
       "fecha": "2017-04-23T03:10:03Z",
       "place": "30 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -7901,7 +7732,7 @@
       "fecha": "2017-04-23T16:12:53Z",
       "place": "34 km WNW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -7914,7 +7745,7 @@
       "fecha": "2017-04-23T19:40:10Z",
       "place": "45 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -7940,7 +7771,7 @@
       "fecha": "2017-04-24T01:19:40Z",
       "place": "45 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -7953,7 +7784,7 @@
       "fecha": "2017-04-24T03:50:50Z",
       "place": "49 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -7966,7 +7797,7 @@
       "fecha": "2017-04-24T03:54:10Z",
       "place": "48 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -7992,7 +7823,7 @@
       "fecha": "2017-04-24T21:38:23Z",
       "place": "46 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8005,7 +7836,7 @@
       "fecha": "2017-04-24T21:38:30Z",
       "place": "40 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8018,7 +7849,7 @@
       "fecha": "2017-04-24T21:46:03Z",
       "place": "41 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8031,7 +7862,7 @@
       "fecha": "2017-04-24T21:46:24Z",
       "place": "35 km WNW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8044,7 +7875,7 @@
       "fecha": "2017-04-24T21:58:31Z",
       "place": "39 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8057,7 +7888,7 @@
       "fecha": "2017-04-24T22:03:15Z",
       "place": "38 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8083,7 +7914,7 @@
       "fecha": "2017-04-24T22:21:54Z",
       "place": "55 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8109,7 +7940,7 @@
       "fecha": "2017-04-24T22:50:28Z",
       "place": "45 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8122,7 +7953,7 @@
       "fecha": "2017-04-24T23:04:03Z",
       "place": "32 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8148,7 +7979,7 @@
       "fecha": "2017-04-24T23:39:22Z",
       "place": "27 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8161,7 +7992,7 @@
       "fecha": "2017-04-24T23:54:44Z",
       "place": "43 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8174,7 +8005,7 @@
       "fecha": "2017-04-24T23:58:00Z",
       "place": "40 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8187,7 +8018,7 @@
       "fecha": "2017-04-25T00:02:56Z",
       "place": "44 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8213,7 +8044,7 @@
       "fecha": "2017-04-25T00:17:35Z",
       "place": "49 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8226,7 +8057,7 @@
       "fecha": "2017-04-25T01:33:14Z",
       "place": "45 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8239,7 +8070,7 @@
       "fecha": "2017-04-25T01:43:03Z",
       "place": "39 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8252,7 +8083,7 @@
       "fecha": "2017-04-25T03:02:22Z",
       "place": "50 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8278,7 +8109,7 @@
       "fecha": "2017-04-25T08:29:04Z",
       "place": "54 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8291,7 +8122,7 @@
       "fecha": "2017-04-25T09:33:30Z",
       "place": "38 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8317,7 +8148,7 @@
       "fecha": "2017-04-25T10:20:21Z",
       "place": "55 km WNW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8330,7 +8161,7 @@
       "fecha": "2017-04-25T10:24:34Z",
       "place": "53 km WNW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8343,7 +8174,7 @@
       "fecha": "2017-04-25T11:22:01Z",
       "place": "49 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8356,7 +8187,7 @@
       "fecha": "2017-04-25T11:24:10Z",
       "place": "57 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8369,7 +8200,7 @@
       "fecha": "2017-04-25T12:13:22Z",
       "place": "55 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8382,7 +8213,7 @@
       "fecha": "2017-04-25T14:26:34Z",
       "place": "49 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8395,7 +8226,7 @@
       "fecha": "2017-04-25T16:38:50Z",
       "place": "56 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8408,7 +8239,7 @@
       "fecha": "2017-04-25T16:48:35Z",
       "place": "45 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8421,7 +8252,7 @@
       "fecha": "2017-04-25T20:57:52Z",
       "place": "54 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8434,7 +8265,7 @@
       "fecha": "2017-04-25T23:58:11Z",
       "place": "31 km WNW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8473,7 +8304,7 @@
       "fecha": "2017-04-26T10:05:34Z",
       "place": "58 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8486,7 +8317,7 @@
       "fecha": "2017-04-26T14:45:53Z",
       "place": "40 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8499,7 +8330,7 @@
       "fecha": "2017-04-26T15:14:01Z",
       "place": "37 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8551,7 +8382,7 @@
       "fecha": "2017-04-27T05:09:22Z",
       "place": "39 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8564,7 +8395,7 @@
       "fecha": "2017-04-27T06:55:45Z",
       "place": "42 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8577,7 +8408,7 @@
       "fecha": "2017-04-27T08:24:40Z",
       "place": "38 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8590,7 +8421,7 @@
       "fecha": "2017-04-27T08:46:36Z",
       "place": "35 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8603,7 +8434,7 @@
       "fecha": "2017-04-28T15:30:06Z",
       "place": "37 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8616,7 +8447,7 @@
       "fecha": "2017-04-28T15:33:29Z",
       "place": "40 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8629,7 +8460,7 @@
       "fecha": "2017-04-28T15:40:24Z",
       "place": "36 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8642,7 +8473,7 @@
       "fecha": "2017-04-28T15:43:23Z",
       "place": "38 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8655,7 +8486,7 @@
       "fecha": "2017-04-28T15:44:30Z",
       "place": "45 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8668,7 +8499,7 @@
       "fecha": "2017-04-28T15:49:41Z",
       "place": "47 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8694,7 +8525,7 @@
       "fecha": "2017-04-28T15:56:59Z",
       "place": "51 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8707,7 +8538,7 @@
       "fecha": "2017-04-28T15:58:33Z",
       "place": "44 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8733,7 +8564,7 @@
       "fecha": "2017-04-28T16:18:41Z",
       "place": "60 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8746,7 +8577,7 @@
       "fecha": "2017-04-28T16:27:26Z",
       "place": "39 km NW of Cartagena, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8759,7 +8590,7 @@
       "fecha": "2017-04-28T16:51:51Z",
       "place": "47 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8772,7 +8603,7 @@
       "fecha": "2017-04-28T17:09:39Z",
       "place": "51 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8785,7 +8616,7 @@
       "fecha": "2017-04-28T17:21:47Z",
       "place": "44 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8798,7 +8629,7 @@
       "fecha": "2017-04-28T17:41:08Z",
       "place": "51 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8811,7 +8642,7 @@
       "fecha": "2017-04-28T17:41:49Z",
       "place": "40 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8837,7 +8668,7 @@
       "fecha": "2017-04-28T18:28:23Z",
       "place": "39 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8850,7 +8681,7 @@
       "fecha": "2017-04-28T21:01:21Z",
       "place": "38 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8876,7 +8707,7 @@
       "fecha": "2017-04-29T01:08:34Z",
       "place": "39 km WNW of Cartagena, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8889,7 +8720,7 @@
       "fecha": "2017-04-29T01:37:16Z",
       "place": "44 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8902,7 +8733,7 @@
       "fecha": "2017-04-29T01:46:02Z",
       "place": "36 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -8928,7 +8759,7 @@
       "fecha": "2017-04-29T08:30:42Z",
       "place": "47 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -8941,7 +8772,7 @@
       "fecha": "2017-04-29T08:54:01Z",
       "place": "51 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -9032,7 +8863,7 @@
       "fecha": "2017-05-01T23:38:44Z",
       "place": "54 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -9058,7 +8889,7 @@
       "fecha": "2017-05-02T06:15:15Z",
       "place": "57 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -9110,7 +8941,7 @@
       "fecha": "2017-05-03T16:50:21Z",
       "place": "60 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -9383,7 +9214,7 @@
       "fecha": "2017-05-13T16:54:45Z",
       "place": "39 km WNW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -9409,7 +9240,7 @@
       "fecha": "2017-05-13T19:46:09Z",
       "place": "96 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -9708,7 +9539,7 @@
       "fecha": "2017-05-20T02:57:37Z",
       "place": "76 km W of El Aguilar, Argentina",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 38,
       "posible_replica": false
     },
     {
@@ -9812,7 +9643,7 @@
       "fecha": "2017-05-23T01:05:11Z",
       "place": "51 km WNW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -10202,7 +10033,7 @@
       "fecha": "2017-06-04T22:36:26Z",
       "place": "75 km WNW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -10397,7 +10228,7 @@
       "fecha": "2017-06-10T16:09:21Z",
       "place": "58 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -10566,7 +10397,7 @@
       "fecha": "2017-06-15T09:54:32Z",
       "place": "88 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -10800,7 +10631,7 @@
       "fecha": "2017-06-22T23:36:38Z",
       "place": "104 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -10852,7 +10683,7 @@
       "fecha": "2017-06-23T20:20:51Z",
       "place": "20 km WNW of La Puerta de San José, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -11112,7 +10943,7 @@
       "fecha": "2017-07-01T17:17:11Z",
       "place": "42 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -11138,7 +10969,7 @@
       "fecha": "2017-07-02T02:30:53Z",
       "place": "74 km WNW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -11333,7 +11164,7 @@
       "fecha": "2017-07-08T05:03:56Z",
       "place": "71 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -11619,7 +11450,7 @@
       "fecha": "2017-07-14T11:41:15Z",
       "place": "95 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -11632,7 +11463,7 @@
       "fecha": "2017-07-14T12:00:29Z",
       "place": "85 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -11749,7 +11580,7 @@
       "fecha": "2017-07-22T07:44:25Z",
       "place": "30 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -11788,7 +11619,7 @@
       "fecha": "2017-07-23T16:46:06Z",
       "place": "40 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -11892,7 +11723,7 @@
       "fecha": "2017-07-25T21:19:53Z",
       "place": "49 km WSW of Abra Pampa, Argentina",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 38,
       "posible_replica": false
     },
     {
@@ -12399,7 +12230,7 @@
       "fecha": "2017-08-12T12:54:13Z",
       "place": "85 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -12464,7 +12295,7 @@
       "fecha": "2017-08-12T21:31:18Z",
       "place": "93 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -12542,7 +12373,7 @@
       "fecha": "2017-08-14T10:28:51Z",
       "place": "97 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -12607,7 +12438,7 @@
       "fecha": "2017-08-15T19:03:21Z",
       "place": "79 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -12932,7 +12763,7 @@
       "fecha": "2017-08-28T22:08:28Z",
       "place": "50 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -13062,7 +12893,7 @@
       "fecha": "2017-09-05T04:54:52Z",
       "place": "58 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -13517,7 +13348,7 @@
       "fecha": "2017-09-18T20:44:57Z",
       "place": "86 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -13777,7 +13608,7 @@
       "fecha": "2017-09-26T05:44:33Z",
       "place": "53 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -13985,7 +13816,7 @@
       "fecha": "2017-10-03T08:27:13Z",
       "place": "35 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -14102,7 +13933,7 @@
       "fecha": "2017-10-08T00:03:30Z",
       "place": "45 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -14167,7 +13998,7 @@
       "fecha": "2017-10-09T14:19:51Z",
       "place": "100 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -14310,7 +14141,7 @@
       "fecha": "2017-10-13T14:16:03Z",
       "place": "56 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -14570,7 +14401,7 @@
       "fecha": "2017-10-22T13:54:54Z",
       "place": "101 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -14609,7 +14440,7 @@
       "fecha": "2017-10-23T02:59:55Z",
       "place": "87 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -14622,7 +14453,7 @@
       "fecha": "2017-10-23T03:21:15Z",
       "place": "84 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -14635,7 +14466,7 @@
       "fecha": "2017-10-25T08:48:25Z",
       "place": "93 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -14687,7 +14518,7 @@
       "fecha": "2017-10-27T20:38:53Z",
       "place": "71 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -14908,7 +14739,7 @@
       "fecha": "2017-11-06T10:38:51Z",
       "place": "67 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -15506,7 +15337,7 @@
       "fecha": "2017-11-27T05:59:56Z",
       "place": "64 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -15701,7 +15532,7 @@
       "fecha": "2017-12-05T17:00:35Z",
       "place": "57 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -15870,7 +15701,7 @@
       "fecha": "2017-12-08T06:07:46Z",
       "place": "68 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -15896,7 +15727,7 @@
       "fecha": "2017-12-08T13:50:22Z",
       "place": "70 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -16091,7 +15922,7 @@
       "fecha": "2017-12-13T10:45:29Z",
       "place": "74 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -16377,7 +16208,7 @@
       "fecha": "2017-12-21T14:20:59Z",
       "place": "88 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -16559,7 +16390,7 @@
       "fecha": "2017-12-29T22:13:50Z",
       "place": "98 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -17248,7 +17079,7 @@
       "fecha": "2018-01-30T16:34:20Z",
       "place": "82 km WNW of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -17443,7 +17274,7 @@
       "fecha": "2018-02-06T11:54:51Z",
       "place": "89 km NW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -17573,7 +17404,7 @@
       "fecha": "2018-02-12T11:05:59Z",
       "place": "94 km SSW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -17833,7 +17664,7 @@
       "fecha": "2018-02-23T09:32:34Z",
       "place": "53 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -18093,7 +17924,7 @@
       "fecha": "2018-03-05T20:07:41Z",
       "place": "77 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -18717,7 +18548,7 @@
       "fecha": "2018-04-01T01:14:42Z",
       "place": "76 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -18834,7 +18665,7 @@
       "fecha": "2018-04-05T05:59:26Z",
       "place": "83 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -18899,7 +18730,7 @@
       "fecha": "2018-04-07T02:35:10Z",
       "place": "82 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -19250,7 +19081,7 @@
       "fecha": "2018-04-17T12:12:48Z",
       "place": "41 km E of Tarata, Peru",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 49,
       "posible_replica": false
     },
     {
@@ -19757,7 +19588,7 @@
       "fecha": "2018-05-06T02:44:20Z",
       "place": "92 km WNW of Santa Cruz, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -19887,7 +19718,7 @@
       "fecha": "2018-05-13T03:54:31Z",
       "place": "101 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -20277,7 +20108,7 @@
       "fecha": "2018-05-29T20:13:44Z",
       "place": "94 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -20394,7 +20225,7 @@
       "fecha": "2018-06-03T04:58:51Z",
       "place": "89 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -20420,7 +20251,7 @@
       "fecha": "2018-06-03T09:59:31Z",
       "place": "91 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -20784,7 +20615,7 @@
       "fecha": "2018-06-16T02:21:08Z",
       "place": "51 km ENE of Caucete, Argentina",
       "region": "continental",
-      "cluster": 8,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -20862,7 +20693,7 @@
       "fecha": "2018-06-18T08:20:21Z",
       "place": "Potosi, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -20888,7 +20719,7 @@
       "fecha": "2018-06-20T01:09:54Z",
       "place": "46 km NNW of San Antonio de los Cobres, Argentina",
       "region": "continental",
-      "cluster": 40,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -21122,7 +20953,7 @@
       "fecha": "2018-06-28T09:14:15Z",
       "place": "91 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -21538,7 +21369,7 @@
       "fecha": "2018-07-06T13:40:05Z",
       "place": "76 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -21694,7 +21525,7 @@
       "fecha": "2018-07-12T09:11:57Z",
       "place": "88 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -21941,7 +21772,7 @@
       "fecha": "2018-07-24T11:17:24Z",
       "place": "8 km N of Chilecito, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -21980,7 +21811,7 @@
       "fecha": "2018-07-25T21:37:35Z",
       "place": "35 km NE of Chilecito, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -22162,7 +21993,7 @@
       "fecha": "2018-07-31T13:38:31Z",
       "place": "78 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -22227,7 +22058,7 @@
       "fecha": "2018-08-03T03:15:31Z",
       "place": "85 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -22370,7 +22201,7 @@
       "fecha": "2018-08-10T11:04:21Z",
       "place": "94 km NW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -22695,7 +22526,7 @@
       "fecha": "2018-08-25T02:20:37Z",
       "place": "47 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -24320,7 +24151,7 @@
       "fecha": "2018-10-21T13:11:07Z",
       "place": "55 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -24359,7 +24190,7 @@
       "fecha": "2018-10-23T09:58:40Z",
       "place": "45 km WSW of Arauco, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -25152,7 +24983,7 @@
       "fecha": "2018-11-13T06:17:52Z",
       "place": "73 km E of Diego de Almagro, Chile",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 13,
       "posible_replica": false
     },
     {
@@ -25477,7 +25308,7 @@
       "fecha": "2018-12-01T23:55:24Z",
       "place": "81 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -25490,7 +25321,7 @@
       "fecha": "2018-12-01T23:59:21Z",
       "place": "81 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -25516,7 +25347,7 @@
       "fecha": "2018-12-03T02:34:12Z",
       "place": "88 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -25529,7 +25360,7 @@
       "fecha": "2018-12-03T03:23:25Z",
       "place": "85 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -25568,7 +25399,7 @@
       "fecha": "2018-12-07T05:12:11Z",
       "place": "34 km E of Vinchina, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -26270,7 +26101,7 @@
       "fecha": "2018-12-29T13:57:16Z",
       "place": "71 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -26491,7 +26322,7 @@
       "fecha": "2019-01-06T18:44:30Z",
       "place": "85 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -26881,7 +26712,7 @@
       "fecha": "2019-01-20T09:23:32Z",
       "place": "63 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -28025,7 +27856,7 @@
       "fecha": "2019-03-02T07:57:40Z",
       "place": "86 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -28038,7 +27869,7 @@
       "fecha": "2019-03-02T20:21:52Z",
       "place": "92 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -28194,7 +28025,7 @@
       "fecha": "2019-03-10T03:09:45Z",
       "place": "95 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -28207,7 +28038,7 @@
       "fecha": "2019-03-10T11:55:54Z",
       "place": "87 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -28415,7 +28246,7 @@
       "fecha": "2019-03-17T14:18:53Z",
       "place": "72 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -28532,7 +28363,7 @@
       "fecha": "2019-03-23T19:02:45Z",
       "place": "37 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -29026,7 +28857,7 @@
       "fecha": "2019-04-07T10:52:41Z",
       "place": "86 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -29039,7 +28870,7 @@
       "fecha": "2019-04-07T12:20:45Z",
       "place": "93 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -30326,7 +30157,7 @@
       "fecha": "2019-05-27T15:25:25Z",
       "place": "40 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -30378,7 +30209,7 @@
       "fecha": "2019-05-29T23:25:11Z",
       "place": "81 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -30560,7 +30391,7 @@
       "fecha": "2019-06-04T12:13:06Z",
       "place": "83 km SW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -30820,7 +30651,7 @@
       "fecha": "2019-06-14T00:19:12Z",
       "place": "72 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -30846,7 +30677,7 @@
       "fecha": "2019-06-14T01:38:26Z",
       "place": "79 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -30872,7 +30703,7 @@
       "fecha": "2019-06-14T04:21:23Z",
       "place": "73 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -30911,7 +30742,7 @@
       "fecha": "2019-06-15T10:37:14Z",
       "place": "71 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -30924,7 +30755,7 @@
       "fecha": "2019-06-15T16:22:53Z",
       "place": "81 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -31444,7 +31275,7 @@
       "fecha": "2019-07-06T03:58:17Z",
       "place": "28 km SSE of Hualfín, Argentina",
       "region": "continental",
-      "cluster": 7,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -31457,7 +31288,7 @@
       "fecha": "2019-07-07T16:12:16Z",
       "place": "108 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -31496,7 +31327,7 @@
       "fecha": "2019-07-08T11:24:02Z",
       "place": "48 km WNW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -31613,7 +31444,7 @@
       "fecha": "2019-07-11T02:17:20Z",
       "place": "9 km ENE of Fiambalá, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -31951,7 +31782,7 @@
       "fecha": "2019-07-26T23:22:26Z",
       "place": "91 km NW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -32081,7 +31912,7 @@
       "fecha": "2019-08-02T00:09:15Z",
       "place": "88 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -32107,7 +31938,7 @@
       "fecha": "2019-08-02T06:41:42Z",
       "place": "90 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -32120,7 +31951,7 @@
       "fecha": "2019-08-02T06:50:51Z",
       "place": "84 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -32146,7 +31977,7 @@
       "fecha": "2019-08-04T15:33:39Z",
       "place": "88 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -32445,7 +32276,7 @@
       "fecha": "2019-08-15T14:23:40Z",
       "place": "75 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -33342,7 +33173,7 @@
       "fecha": "2019-09-16T13:39:43Z",
       "place": "91 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -34252,7 +34083,7 @@
       "fecha": "2019-10-11T06:11:49Z",
       "place": "98 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -34863,7 +34694,7 @@
       "fecha": "2019-11-03T08:06:10Z",
       "place": "88 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -35188,7 +35019,7 @@
       "fecha": "2019-11-15T17:16:42Z",
       "place": "74 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -36384,7 +36215,7 @@
       "fecha": "2020-01-02T19:49:05Z",
       "place": "85 km SW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -36813,7 +36644,7 @@
       "fecha": "2020-01-14T07:41:53Z",
       "place": "98 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -37203,7 +37034,7 @@
       "fecha": "2020-01-28T18:06:05Z",
       "place": "83 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -37294,7 +37125,7 @@
       "fecha": "2020-01-29T20:53:37Z",
       "place": "75 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -37996,7 +37827,7 @@
       "fecha": "2020-03-06T19:04:06Z",
       "place": "93 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -38087,7 +37918,7 @@
       "fecha": "2020-03-09T03:52:16Z",
       "place": "70 km SSW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -38113,7 +37944,7 @@
       "fecha": "2020-03-09T15:29:15Z",
       "place": "99 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -38217,7 +38048,7 @@
       "fecha": "2020-03-11T17:04:25Z",
       "place": "95 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -38256,7 +38087,7 @@
       "fecha": "2020-03-14T00:08:01Z",
       "place": "80 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -38347,7 +38178,7 @@
       "fecha": "2020-03-16T17:39:17Z",
       "place": "81 km NW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -38919,7 +38750,7 @@
       "fecha": "2020-04-04T10:38:13Z",
       "place": "144 km ESE of Iquique, Chile",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 54,
       "posible_replica": false
     },
     {
@@ -40011,7 +39842,7 @@
       "fecha": "2020-05-11T14:08:29Z",
       "place": "95 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -40921,7 +40752,7 @@
       "fecha": "2020-06-09T23:58:48Z",
       "place": "80 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -42364,7 +42195,7 @@
       "fecha": "2020-07-26T16:07:46Z",
       "place": "91 km NW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -42546,7 +42377,7 @@
       "fecha": "2020-08-02T08:46:49Z",
       "place": "77 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -42754,7 +42585,7 @@
       "fecha": "2020-08-12T20:50:09Z",
       "place": "80 km E of Diego de Almagro, Chile",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 13,
       "posible_replica": false
     },
     {
@@ -42936,7 +42767,7 @@
       "fecha": "2020-08-21T19:00:34Z",
       "place": "76 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -43859,7 +43690,7 @@
       "fecha": "2020-09-06T17:45:44Z",
       "place": "83 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -44483,7 +44314,7 @@
       "fecha": "2020-09-28T16:49:16Z",
       "place": "40 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -44730,7 +44561,7 @@
       "fecha": "2020-10-10T06:48:42Z",
       "place": "80 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -44860,7 +44691,7 @@
       "fecha": "2020-10-13T19:07:23Z",
       "place": "72 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -45731,7 +45562,7 @@
       "fecha": "2020-11-10T13:08:46Z",
       "place": "77 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -45757,7 +45588,7 @@
       "fecha": "2020-11-11T02:17:08Z",
       "place": "Off the coast of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -45913,7 +45744,7 @@
       "fecha": "2020-11-15T10:05:09Z",
       "place": "134 km N of Calama, Chile",
       "region": "continental",
-      "cluster": 57,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -46160,7 +45991,7 @@
       "fecha": "2020-11-21T18:31:11Z",
       "place": "94 km NW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -47512,7 +47343,7 @@
       "fecha": "2020-12-26T03:18:04Z",
       "place": "81 km W of El Aguilar, Argentina",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 38,
       "posible_replica": false
     },
     {
@@ -47785,7 +47616,7 @@
       "fecha": "2020-12-29T06:27:54Z",
       "place": "77 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -48071,7 +47902,7 @@
       "fecha": "2021-01-05T21:43:53Z",
       "place": "55 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -48331,7 +48162,7 @@
       "fecha": "2021-01-13T11:36:06Z",
       "place": "25 km WNW of Chilecito, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -49332,7 +49163,7 @@
       "fecha": "2021-02-13T18:49:41Z",
       "place": "55 km WSW of Iquique, Chile",
       "region": "continental",
-      "cluster": 20,
+      "cluster": 21,
       "posible_replica": false
     },
     {
@@ -49553,7 +49384,7 @@
       "fecha": "2021-02-19T10:48:37Z",
       "place": "61 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -50099,7 +49930,7 @@
       "fecha": "2021-03-12T16:00:26Z",
       "place": "31 km SW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -50905,7 +50736,7 @@
       "fecha": "2021-04-14T01:01:04Z",
       "place": "76 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -50970,7 +50801,7 @@
       "fecha": "2021-04-17T03:50:57Z",
       "place": "85 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -51048,7 +50879,7 @@
       "fecha": "2021-04-19T03:18:57Z",
       "place": "85 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51061,7 +50892,7 @@
       "fecha": "2021-04-19T04:11:26Z",
       "place": "85 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -51074,7 +50905,7 @@
       "fecha": "2021-04-19T11:13:28Z",
       "place": "81 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51100,7 +50931,7 @@
       "fecha": "2021-04-19T13:05:26Z",
       "place": "79 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51113,7 +50944,7 @@
       "fecha": "2021-04-19T13:31:05Z",
       "place": "81 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -51126,7 +50957,7 @@
       "fecha": "2021-04-19T13:47:22Z",
       "place": "81 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -51139,7 +50970,7 @@
       "fecha": "2021-04-19T15:02:08Z",
       "place": "78 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51191,7 +51022,7 @@
       "fecha": "2021-04-21T08:08:22Z",
       "place": "83 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51204,7 +51035,7 @@
       "fecha": "2021-04-21T08:15:44Z",
       "place": "79 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -51243,7 +51074,7 @@
       "fecha": "2021-04-22T00:17:15Z",
       "place": "82 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51256,7 +51087,7 @@
       "fecha": "2021-04-22T10:29:01Z",
       "place": "84 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51269,7 +51100,7 @@
       "fecha": "2021-04-22T12:46:19Z",
       "place": "86 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51282,7 +51113,7 @@
       "fecha": "2021-04-22T21:45:13Z",
       "place": "84 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51295,7 +51126,7 @@
       "fecha": "2021-04-22T21:57:19Z",
       "place": "84 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -51321,7 +51152,7 @@
       "fecha": "2021-04-23T00:47:42Z",
       "place": "91 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51334,7 +51165,7 @@
       "fecha": "2021-04-23T03:53:12Z",
       "place": "87 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51347,7 +51178,7 @@
       "fecha": "2021-04-23T03:56:10Z",
       "place": "87 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -51360,7 +51191,7 @@
       "fecha": "2021-04-23T04:13:14Z",
       "place": "82 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -51503,7 +51334,7 @@
       "fecha": "2021-04-28T18:25:11Z",
       "place": "Near the coast of Libertador O'Higgins, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51516,7 +51347,7 @@
       "fecha": "2021-04-28T18:34:12Z",
       "place": "88 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -51529,7 +51360,7 @@
       "fecha": "2021-04-28T21:50:07Z",
       "place": "78 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -51724,7 +51555,7 @@
       "fecha": "2021-05-04T15:18:22Z",
       "place": "79 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -52153,7 +51984,7 @@
       "fecha": "2021-05-16T14:10:51Z",
       "place": "104 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -52296,7 +52127,7 @@
       "fecha": "2021-05-19T13:44:53Z",
       "place": "70 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -52777,7 +52608,7 @@
       "fecha": "2021-06-01T12:42:06Z",
       "place": "82 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -52829,7 +52660,7 @@
       "fecha": "2021-06-04T07:10:38Z",
       "place": "87 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -53063,7 +52894,7 @@
       "fecha": "2021-06-12T02:55:50Z",
       "place": "54 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -53076,7 +52907,7 @@
       "fecha": "2021-06-12T03:36:26Z",
       "place": "57 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -53180,7 +53011,7 @@
       "fecha": "2021-06-15T13:57:37Z",
       "place": "66 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -53245,7 +53076,7 @@
       "fecha": "2021-06-18T18:33:39Z",
       "place": "89 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -53505,7 +53336,7 @@
       "fecha": "2021-06-27T04:20:58Z",
       "place": "85 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -53687,7 +53518,7 @@
       "fecha": "2021-07-01T12:08:21Z",
       "place": "82 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -54701,7 +54532,7 @@
       "fecha": "2021-07-26T01:27:07Z",
       "place": "76 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -54870,7 +54701,7 @@
       "fecha": "2021-07-31T15:25:35Z",
       "place": "Tarapaca, Chile",
       "region": "continental",
-      "cluster": 53,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -54909,7 +54740,7 @@
       "fecha": "2021-08-01T15:26:18Z",
       "place": "63 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -56287,7 +56118,7 @@
       "fecha": "2021-09-13T04:12:28Z",
       "place": "63 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -56859,7 +56690,7 @@
       "fecha": "2021-09-24T06:50:11Z",
       "place": "Potosi, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -56924,7 +56755,7 @@
       "fecha": "2021-09-26T22:45:17Z",
       "place": "70 km NNW of Tocopilla, Chile",
       "region": "continental",
-      "cluster": 17,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -57054,7 +56885,7 @@
       "fecha": "2021-09-30T09:44:10Z",
       "place": "79 km SSW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -57379,7 +57210,7 @@
       "fecha": "2021-10-12T18:01:52Z",
       "place": "84 km NW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -57665,7 +57496,7 @@
       "fecha": "2021-10-19T18:37:56Z",
       "place": "92 km WSW of Copiapó, Chile",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 23,
       "posible_replica": false
     },
     {
@@ -58224,7 +58055,7 @@
       "fecha": "2021-11-12T00:32:14Z",
       "place": "98 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -58692,7 +58523,7 @@
       "fecha": "2021-11-28T09:37:17Z",
       "place": "65 km W of La Ligua, Chile",
       "region": "continental",
-      "cluster": 36,
+      "cluster": 35,
       "posible_replica": false
     },
     {
@@ -58926,7 +58757,7 @@
       "fecha": "2021-12-07T07:47:11Z",
       "place": "82 km SSW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -59095,7 +58926,7 @@
       "fecha": "2021-12-12T13:32:38Z",
       "place": "99 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -59342,7 +59173,7 @@
       "fecha": "2021-12-20T09:12:46Z",
       "place": "110 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -60109,7 +59940,7 @@
       "fecha": "2022-01-17T04:59:31Z",
       "place": "73 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -60668,7 +60499,7 @@
       "fecha": "2022-01-31T21:36:17Z",
       "place": "62 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -60876,7 +60707,7 @@
       "fecha": "2022-02-05T10:46:18Z",
       "place": "98 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -62059,7 +61890,7 @@
       "fecha": "2022-03-19T09:31:16Z",
       "place": "37 km S of Londres, Argentina",
       "region": "continental",
-      "cluster": 7,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -62072,7 +61903,7 @@
       "fecha": "2022-03-19T21:05:08Z",
       "place": "Off the coast of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -62150,7 +61981,7 @@
       "fecha": "2022-03-22T21:29:46Z",
       "place": "45 km NNW of San Antonio de los Cobres, Argentina",
       "region": "continental",
-      "cluster": 40,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -62423,7 +62254,7 @@
       "fecha": "2022-04-04T09:44:07Z",
       "place": "108 km ENE of Iquique, Chile",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 52,
       "posible_replica": false
     },
     {
@@ -62657,7 +62488,7 @@
       "fecha": "2022-04-12T08:49:32Z",
       "place": "83 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -62683,7 +62514,7 @@
       "fecha": "2022-04-12T16:07:46Z",
       "place": "81 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -62891,7 +62722,7 @@
       "fecha": "2022-04-16T17:10:34Z",
       "place": "82 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -63060,7 +62891,7 @@
       "fecha": "2022-04-21T08:47:12Z",
       "place": "92 km SSW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -63242,7 +63073,7 @@
       "fecha": "2022-04-28T01:58:35Z",
       "place": "68 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -63515,7 +63346,7 @@
       "fecha": "2022-05-05T01:32:59Z",
       "place": "74 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -63775,7 +63606,7 @@
       "fecha": "2022-05-12T01:01:03Z",
       "place": "39 km SW of Tinogasta, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -64061,7 +63892,7 @@
       "fecha": "2022-05-20T09:07:46Z",
       "place": "79 km NW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -64386,7 +64217,7 @@
       "fecha": "2022-06-01T02:39:21Z",
       "place": "93 km WNW of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -64412,7 +64243,7 @@
       "fecha": "2022-06-01T10:00:05Z",
       "place": "Potosi, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -64438,7 +64269,7 @@
       "fecha": "2022-06-01T19:42:37Z",
       "place": "47 km S of Londres, Argentina",
       "region": "continental",
-      "cluster": 7,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -65127,7 +64958,7 @@
       "fecha": "2022-06-26T21:14:08Z",
       "place": "81 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -65413,7 +65244,7 @@
       "fecha": "2022-07-03T16:24:20Z",
       "place": "Off the coast of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -65478,7 +65309,7 @@
       "fecha": "2022-07-05T11:35:30Z",
       "place": "85 km WNW of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -66115,7 +65946,7 @@
       "fecha": "2022-07-30T15:31:36Z",
       "place": "43 km E of Arica, Chile",
       "region": "continental",
-      "cluster": 49,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -66232,7 +66063,7 @@
       "fecha": "2022-08-02T09:22:43Z",
       "place": "60 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -66544,7 +66375,7 @@
       "fecha": "2022-08-14T18:41:29Z",
       "place": "Off the coast of Valparaiso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -66557,7 +66388,7 @@
       "fecha": "2022-08-14T18:41:58Z",
       "place": "36 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": true
     },
     {
@@ -66791,7 +66622,7 @@
       "fecha": "2022-08-23T03:09:17Z",
       "place": "99 km WSW of Lebu, Chile",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 3,
       "posible_replica": false
     },
     {
@@ -67519,7 +67350,7 @@
       "fecha": "2022-09-17T10:50:44Z",
       "place": "47 km E of Arica, Chile",
       "region": "continental",
-      "cluster": 49,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -67688,7 +67519,7 @@
       "fecha": "2022-09-22T07:32:08Z",
       "place": "61 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -67727,7 +67558,7 @@
       "fecha": "2022-09-22T21:08:05Z",
       "place": "Catamarca, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -67844,7 +67675,7 @@
       "fecha": "2022-09-24T08:02:30Z",
       "place": "82 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -67883,7 +67714,7 @@
       "fecha": "2022-09-26T21:46:06Z",
       "place": "93 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -68208,7 +68039,7 @@
       "fecha": "2022-10-05T21:38:42Z",
       "place": "83 km W of Copiapó, Chile",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 23,
       "posible_replica": false
     },
     {
@@ -68572,7 +68403,7 @@
       "fecha": "2022-10-17T22:35:06Z",
       "place": "102 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -69339,7 +69170,7 @@
       "fecha": "2022-11-15T02:43:23Z",
       "place": "40 km WSW of Valparaiso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -70392,7 +70223,7 @@
       "fecha": "2022-12-21T17:33:11Z",
       "place": "65 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -70574,7 +70405,7 @@
       "fecha": "2022-12-25T14:08:19Z",
       "place": "137 km NNE of Calama, Chile",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 57,
       "posible_replica": false
     },
     {
@@ -71393,7 +71224,7 @@
       "fecha": "2023-01-21T01:50:47Z",
       "place": "74 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -72407,7 +72238,7 @@
       "fecha": "2023-02-22T15:51:40Z",
       "place": "79 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -72563,7 +72394,7 @@
       "fecha": "2023-02-24T02:35:11Z",
       "place": "Potosi, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -72615,7 +72446,7 @@
       "fecha": "2023-02-25T07:05:20Z",
       "place": "51 km N of Tocopilla, Chile",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 17,
       "posible_replica": false
     },
     {
@@ -72628,7 +72459,7 @@
       "fecha": "2023-02-25T16:25:15Z",
       "place": "30 km NW of Coronel, Chile",
       "region": "continental",
-      "cluster": 4,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -72641,7 +72472,7 @@
       "fecha": "2023-02-25T23:43:45Z",
       "place": "91 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -72667,7 +72498,7 @@
       "fecha": "2023-02-27T12:08:26Z",
       "place": "97 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -73720,7 +73551,7 @@
       "fecha": "2023-04-03T21:46:42Z",
       "place": "70 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -74279,7 +74110,7 @@
       "fecha": "2023-04-27T12:43:22Z",
       "place": "59 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -75436,7 +75267,7 @@
       "fecha": "2023-06-03T00:11:44Z",
       "place": "Catamarca, Argentina",
       "region": "continental",
-      "cluster": 7,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -75917,7 +75748,7 @@
       "fecha": "2023-06-16T09:07:50Z",
       "place": "96 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -76008,7 +75839,7 @@
       "fecha": "2023-06-18T16:26:34Z",
       "place": "72 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -76619,7 +76450,7 @@
       "fecha": "2023-07-11T01:11:38Z",
       "place": "43 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -77594,7 +77425,7 @@
       "fecha": "2023-08-13T21:08:46Z",
       "place": "24 km SSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 43,
+      "cluster": 42,
       "posible_replica": false
     },
     {
@@ -78127,7 +77958,7 @@
       "fecha": "2023-09-02T20:28:19Z",
       "place": "83 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -79063,7 +78894,7 @@
       "fecha": "2023-09-27T23:02:38Z",
       "place": "71 km SSW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -79167,7 +78998,7 @@
       "fecha": "2023-09-30T17:44:06Z",
       "place": "84 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -79284,7 +79115,7 @@
       "fecha": "2023-10-04T03:09:03Z",
       "place": "85 km NW of San Antonio de los Cobres, Argentina",
       "region": "continental",
-      "cluster": 40,
+      "cluster": 41,
       "posible_replica": false
     },
     {
@@ -79804,7 +79635,7 @@
       "fecha": "2023-10-17T20:52:36Z",
       "place": "82 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -80038,7 +79869,7 @@
       "fecha": "2023-10-21T20:01:07Z",
       "place": "44 km WSW of Arauco, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -80506,7 +80337,7 @@
       "fecha": "2023-11-03T07:37:40Z",
       "place": "64 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -80532,7 +80363,7 @@
       "fecha": "2023-11-06T13:51:10Z",
       "place": "30 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -80701,7 +80532,7 @@
       "fecha": "2023-11-10T21:41:12Z",
       "place": "73 km SSW of Challapata, Bolivia",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 16,
       "posible_replica": false
     },
     {
@@ -80740,7 +80571,7 @@
       "fecha": "2023-11-11T08:12:30Z",
       "place": "81 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -81429,7 +81260,7 @@
       "fecha": "2023-12-01T07:25:24Z",
       "place": "66 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -82924,7 +82755,7 @@
       "fecha": "2024-01-17T04:19:40Z",
       "place": "78 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -83041,7 +82872,7 @@
       "fecha": "2024-01-21T17:37:47Z",
       "place": "86 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -83054,7 +82885,7 @@
       "fecha": "2024-01-21T17:39:29Z",
       "place": "83 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -83093,7 +82924,7 @@
       "fecha": "2024-01-22T22:30:11Z",
       "place": "84 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -83132,7 +82963,7 @@
       "fecha": "2024-01-23T16:06:56Z",
       "place": "82 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -83444,7 +83275,7 @@
       "fecha": "2024-02-02T10:05:44Z",
       "place": "70 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -84393,7 +84224,7 @@
       "fecha": "2024-03-07T22:25:44Z",
       "place": "70 km W of Illapel, Chile",
       "region": "continental",
-      "cluster": 31,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -84575,7 +84406,7 @@
       "fecha": "2024-03-12T03:42:32Z",
       "place": "90 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -84822,7 +84653,7 @@
       "fecha": "2024-03-22T13:39:21Z",
       "place": "88 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -85290,7 +85121,7 @@
       "fecha": "2024-04-10T03:14:46Z",
       "place": "77 km WNW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -85420,7 +85251,7 @@
       "fecha": "2024-04-12T06:25:46Z",
       "place": "31 km SW of Ollagüe, Chile",
       "region": "continental",
-      "cluster": 56,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -86044,7 +85875,7 @@
       "fecha": "2024-05-04T02:43:18Z",
       "place": "79 km SSW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -86265,7 +86096,7 @@
       "fecha": "2024-05-12T11:58:38Z",
       "place": "72 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -86473,7 +86304,7 @@
       "fecha": "2024-05-17T14:13:01Z",
       "place": "66 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -87331,7 +87162,7 @@
       "fecha": "2024-06-15T00:23:44Z",
       "place": "63 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -87526,7 +87357,7 @@
       "fecha": "2024-06-19T13:57:49Z",
       "place": "44 km WNW of Arauco, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -87617,7 +87448,7 @@
       "fecha": "2024-06-22T18:15:40Z",
       "place": "74 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -87942,7 +87773,7 @@
       "fecha": "2024-07-03T22:39:59Z",
       "place": "83 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -88293,7 +88124,7 @@
       "fecha": "2024-07-13T05:18:31Z",
       "place": "81 km SW of Uyuni, Bolivia",
       "region": "continental",
-      "cluster": 45,
+      "cluster": 46,
       "posible_replica": false
     },
     {
@@ -88787,7 +88618,7 @@
       "fecha": "2024-07-28T00:48:36Z",
       "place": "52 km W of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -89073,7 +88904,7 @@
       "fecha": "2024-08-08T01:31:52Z",
       "place": "65 km WSW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -89385,7 +89216,7 @@
       "fecha": "2024-08-21T17:00:32Z",
       "place": "76 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -89996,7 +89827,7 @@
       "fecha": "2024-09-10T13:23:35Z",
       "place": "96 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -90529,7 +90360,7 @@
       "fecha": "2024-09-26T22:51:43Z",
       "place": "73 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -90828,7 +90659,7 @@
       "fecha": "2024-10-06T03:26:57Z",
       "place": "60 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -91660,7 +91491,7 @@
       "fecha": "2024-11-06T07:01:19Z",
       "place": "33 km WSW of Ollagüe, Chile",
       "region": "continental",
-      "cluster": 57,
+      "cluster": 56,
       "posible_replica": false
     },
     {
@@ -92102,7 +91933,7 @@
       "fecha": "2024-11-25T21:59:32Z",
       "place": "87 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -93142,7 +92973,7 @@
       "fecha": "2024-12-25T23:14:32Z",
       "place": "23 km WNW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -93220,7 +93051,7 @@
       "fecha": "2024-12-30T05:40:49Z",
       "place": "68 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -93233,7 +93064,7 @@
       "fecha": "2024-12-30T05:41:06Z",
       "place": "63 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": true
     },
     {
@@ -93246,7 +93077,7 @@
       "fecha": "2024-12-30T06:08:31Z",
       "place": "75 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": true
     },
     {
@@ -93272,7 +93103,7 @@
       "fecha": "2024-12-30T08:51:49Z",
       "place": "74 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -93298,7 +93129,7 @@
       "fecha": "2024-12-30T10:12:21Z",
       "place": "63 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -93649,7 +93480,7 @@
       "fecha": "2025-01-12T15:51:18Z",
       "place": "101 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -94416,7 +94247,7 @@
       "fecha": "2025-02-08T03:16:17Z",
       "place": "79 km NW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -95105,7 +94936,7 @@
       "fecha": "2025-03-03T19:16:43Z",
       "place": "87 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -95378,7 +95209,7 @@
       "fecha": "2025-03-09T19:08:17Z",
       "place": "77 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -96171,7 +96002,7 @@
       "fecha": "2025-04-05T11:22:06Z",
       "place": "51 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -96379,7 +96210,7 @@
       "fecha": "2025-04-12T12:09:09Z",
       "place": "77 km WNW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -96561,7 +96392,7 @@
       "fecha": "2025-04-19T04:51:56Z",
       "place": "78 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -96639,7 +96470,7 @@
       "fecha": "2025-04-22T12:04:55Z",
       "place": "88 km W of Ovalle, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -96678,7 +96509,7 @@
       "fecha": "2025-04-23T13:26:26Z",
       "place": "93 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -96769,7 +96600,7 @@
       "fecha": "2025-04-25T04:16:39Z",
       "place": "91 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -96847,7 +96678,7 @@
       "fecha": "2025-04-28T02:18:32Z",
       "place": "101 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -97159,7 +96990,7 @@
       "fecha": "2025-05-05T09:46:46Z",
       "place": "78 km NW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -97497,7 +97328,7 @@
       "fecha": "2025-05-17T16:38:19Z",
       "place": "92 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -97926,7 +97757,7 @@
       "fecha": "2025-05-29T16:48:10Z",
       "place": "68 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -98615,7 +98446,7 @@
       "fecha": "2025-06-27T05:54:03Z",
       "place": "106 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -98706,7 +98537,7 @@
       "fecha": "2025-07-02T01:39:39Z",
       "place": "88 km W of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -99330,7 +99161,7 @@
       "fecha": "2025-07-23T15:25:36Z",
       "place": "75 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -99772,7 +99603,7 @@
       "fecha": "2025-08-08T06:21:36Z",
       "place": "72 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -100071,7 +99902,7 @@
       "fecha": "2025-08-20T11:50:14Z",
       "place": "202 km WNW of Puerto Natales, Chile",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 0,
       "posible_replica": false
     },
     {
@@ -100344,7 +100175,7 @@
       "fecha": "2025-08-27T11:41:36Z",
       "place": "62 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -100669,7 +100500,7 @@
       "fecha": "2025-09-09T13:03:28Z",
       "place": "67 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -100864,7 +100695,7 @@
       "fecha": "2025-09-13T17:11:57Z",
       "place": "34 km NW of Chilecito, Argentina",
       "region": "continental",
-      "cluster": 6,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -101033,7 +100864,7 @@
       "fecha": "2025-09-20T05:55:37Z",
       "place": "63 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -101436,7 +101267,7 @@
       "fecha": "2025-10-01T16:08:04Z",
       "place": "78 km WNW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -101904,7 +101735,7 @@
       "fecha": "2025-10-21T01:31:56Z",
       "place": "84 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -102307,7 +102138,7 @@
       "fecha": "2025-11-02T13:16:34Z",
       "place": "28 km NE of Cuya, Chile",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 24,
       "posible_replica": false
     },
     {
@@ -102385,7 +102216,7 @@
       "fecha": "2025-11-04T01:36:37Z",
       "place": "95 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -103087,7 +102918,7 @@
       "fecha": "2025-11-28T11:44:22Z",
       "place": "82 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -104738,7 +104569,7 @@
       "fecha": "2026-01-28T17:35:45Z",
       "place": "55 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -105817,7 +105648,7 @@
       "fecha": "2026-03-09T15:37:01Z",
       "place": "52 km SSW of Cañete, Chile",
       "region": "continental",
-      "cluster": 4,
+      "cluster": -1,
       "posible_replica": false
     },
     {
@@ -106155,7 +105986,7 @@
       "fecha": "2026-03-21T19:47:09Z",
       "place": "62 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -106688,7 +106519,7 @@
       "fecha": "2026-04-09T07:41:49Z",
       "place": "72 km WNW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -107169,7 +107000,7 @@
       "fecha": "2026-04-28T10:04:20Z",
       "place": "67 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -107182,7 +107013,7 @@
       "fecha": "2026-04-28T10:06:22Z",
       "place": "69 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": true
     },
     {
@@ -107195,7 +107026,7 @@
       "fecha": "2026-04-28T12:54:45Z",
       "place": "69 km SW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -107208,7 +107039,7 @@
       "fecha": "2026-04-28T14:55:23Z",
       "place": "71 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -107364,7 +107195,7 @@
       "fecha": "2026-05-05T00:08:11Z",
       "place": "125 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -107390,7 +107221,7 @@
       "fecha": "2026-05-06T08:19:31Z",
       "place": "74 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -107429,7 +107260,7 @@
       "fecha": "2026-05-06T11:31:44Z",
       "place": "82 km WSW of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -107715,7 +107546,7 @@
       "fecha": "2026-05-16T00:35:59Z",
       "place": "94 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -108404,7 +108235,7 @@
       "fecha": "2026-05-31T12:37:12Z",
       "place": "62 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": 33,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -108534,7 +108365,7 @@
       "fecha": "2026-06-03T22:36:06Z",
       "place": "56 km WSW of San Antonio, Chile",
       "region": "continental",
-      "cluster": 26,
+      "cluster": 25,
       "posible_replica": false
     },
     {
@@ -109717,31 +109548,31 @@
       "fecha": "2026-07-21T04:28:28Z",
       "place": "55 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
       "id": "us7000t26m",
-      "lat": -27.5086,
-      "lon": -67.5922,
-      "depth": 163.7,
+      "lat": -27.5174,
+      "lon": -67.5102,
+      "depth": 167.8,
       "mag": 4.3,
       "magType": "mb",
       "fecha": "2026-07-21T14:55:26Z",
-      "place": "18 km N of Fiambalá, Argentina",
+      "place": "20 km NNE of Fiambalá, Argentina",
       "region": "continental",
       "cluster": -1,
       "posible_replica": false
     },
     {
       "id": "us7000t28f",
-      "lat": -21.3378,
-      "lon": -69.0011,
-      "depth": 119.58,
-      "mag": 4.2,
+      "lat": -21.3325,
+      "lon": -69.0442,
+      "depth": 114.19,
+      "mag": 4.1,
       "magType": "mb",
-      "fecha": "2026-07-21T17:09:53Z",
-      "place": "78 km W of Ollagüe, Chile",
+      "fecha": "2026-07-21T17:09:54Z",
+      "place": "82 km W of Ollagüe, Chile",
       "region": "continental",
       "cluster": -1,
       "posible_replica": false
@@ -109891,12 +109722,12 @@
     },
     {
       "id": "us7000t36n",
-      "lat": -23.9022,
-      "lon": -66.5692,
-      "depth": 190.21,
+      "lat": -23.9617,
+      "lon": -66.6441,
+      "depth": 189.72,
       "mag": 5.3,
       "magType": "mww",
-      "fecha": "2026-07-24T19:38:42Z",
+      "fecha": "2026-07-24T19:38:41Z",
       "place": "43 km NW of San Antonio de los Cobres, Argentina",
       "region": "continental",
       "cluster": 40,
@@ -110042,7 +109873,7 @@
       "fecha": "2026-07-29T14:36:52Z",
       "place": "57 km WSW of Valparaíso, Chile",
       "region": "continental",
-      "cluster": 34,
+      "cluster": 33,
       "posible_replica": false
     },
     {
@@ -110068,7 +109899,7 @@
       "fecha": "2026-07-30T09:01:33Z",
       "place": "83 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
@@ -110133,18 +109964,18 @@
       "fecha": "2026-07-31T17:47:05Z",
       "place": "76 km W of Coquimbo, Chile",
       "region": "continental",
-      "cluster": 25,
+      "cluster": 26,
       "posible_replica": false
     },
     {
       "id": "us6000thf5",
-      "lat": -21.4068,
-      "lon": -68.451,
-      "depth": 142.89,
+      "lat": -21.4476,
+      "lon": -68.482,
+      "depth": 140.11,
       "mag": 4.4,
       "magType": "mb",
       "fecha": "2026-08-01T07:50:45Z",
-      "place": "28 km SW of Ollagüe, Chile",
+      "place": "34 km SW of Ollagüe, Chile",
       "region": "continental",
       "cluster": -1,
       "posible_replica": false
@@ -110159,6 +109990,19 @@
       "fecha": "2026-08-02T01:21:38Z",
       "place": "36 km W of Cartagena, Chile",
       "region": "continental",
+      "cluster": -1,
+      "posible_replica": false
+    },
+    {
+      "id": "us6000tin1",
+      "lat": -27.0583,
+      "lon": -108.5917,
+      "depth": 10.0,
+      "mag": 4.5,
+      "magType": "mb",
+      "fecha": "2026-08-02T08:04:52Z",
+      "place": "83 km E of Hanga Roa, Chile",
+      "region": "isla_pascua",
       "cluster": -1,
       "posible_replica": false
     },
@@ -110203,13 +110047,13 @@
     },
     {
       "id": "us6000thqm",
-      "lat": -20.2891,
-      "lon": -69.1187,
-      "depth": 90.5,
+      "lat": -20.2539,
+      "lon": -69.093,
+      "depth": 90.36,
       "mag": 4.0,
       "magType": "mb",
-      "fecha": "2026-08-03T06:56:36Z",
-      "place": "56 km E of La Tirana, Chile",
+      "fecha": "2026-08-03T06:56:35Z",
+      "place": "59 km E of La Tirana, Chile",
       "region": "continental",
       "cluster": 53,
       "posible_replica": false
@@ -110242,13 +110086,13 @@
     },
     {
       "id": "us6000tits",
-      "lat": -33.1527,
-      "lon": -68.8413,
+      "lat": -33.1516,
+      "lon": -68.8411,
       "depth": 10.0,
       "mag": 4.5,
       "magType": "mb",
       "fecha": "2026-08-07T00:00:38Z",
-      "place": "29 km S of Mendoza, Argentina",
+      "place": "28 km S of Mendoza, Argentina",
       "region": "continental",
       "cluster": -1,
       "posible_replica": false
@@ -110345,6 +110189,19 @@
       "posible_replica": false
     },
     {
+      "id": "us6000tk1j",
+      "lat": -21.707,
+      "lon": -67.0402,
+      "depth": 237.38,
+      "mag": 4.3,
+      "magType": "mb",
+      "fecha": "2026-08-11T19:37:24Z",
+      "place": "120 km SW of Atocha, Bolivia",
+      "region": "continental",
+      "cluster": 34,
+      "posible_replica": false
+    },
+    {
       "id": "us6000tk9l",
       "lat": -17.3277,
       "lon": -69.7862,
@@ -110355,6 +110212,19 @@
       "place": "27 km E of Chuquitira, Peru",
       "region": "continental",
       "cluster": 49,
+      "posible_replica": false
+    },
+    {
+      "id": "us6000tl09",
+      "lat": -21.4582,
+      "lon": -68.7314,
+      "depth": 115.94,
+      "mag": 4.3,
+      "magType": "mb",
+      "fecha": "2026-08-15T11:33:41Z",
+      "place": "55 km WSW of Ollagüe, Chile",
+      "region": "continental",
+      "cluster": 57,
       "posible_replica": false
     },
     {
@@ -110372,10 +110242,10 @@
     },
     {
       "id": "usd0015ea6",
-      "lat": -24.3187,
-      "lon": -67.2962,
-      "depth": 173.25,
-      "mag": 4.4,
+      "lat": -24.352,
+      "lon": -67.284,
+      "depth": 174.63,
+      "mag": 4.5,
       "magType": "mb",
       "fecha": "2026-08-16T21:06:07Z",
       "place": "99 km W of San Antonio de los Cobres, Argentina",
@@ -110393,7 +110263,7 @@
       "fecha": "2026-08-17T07:59:11Z",
       "place": "105 km SW of Atocha, Bolivia",
       "region": "continental",
-      "cluster": -1,
+      "cluster": 34,
       "posible_replica": false
     },
     {
@@ -110437,10 +110307,10 @@
     },
     {
       "id": "us6000tm2i",
-      "lat": -21.2621,
-      "lon": -68.8583,
-      "depth": 124.2,
-      "mag": 4.1,
+      "lat": -21.2697,
+      "lon": -68.8556,
+      "depth": 124.99,
+      "mag": 4.2,
       "magType": "mb",
       "fecha": "2026-08-20T07:48:15Z",
       "place": "62 km W of Ollagüe, Chile",
@@ -110485,6 +110355,162 @@
       "place": "32 km NNE of Calama, Chile",
       "region": "continental",
       "cluster": 56,
+      "posible_replica": false
+    },
+    {
+      "id": "us6000tmzy",
+      "lat": -23.1294,
+      "lon": -66.457,
+      "depth": 224.79,
+      "mag": 4.5,
+      "magType": "mb",
+      "fecha": "2026-08-23T17:56:30Z",
+      "place": "80 km W of El Aguilar, Argentina",
+      "region": "continental",
+      "cluster": 38,
+      "posible_replica": false
+    },
+    {
+      "id": "us6000tn0n",
+      "lat": -36.7356,
+      "lon": -71.6087,
+      "depth": 102.49,
+      "mag": 4.5,
+      "magType": "mb",
+      "fecha": "2026-08-23T20:38:14Z",
+      "place": "23 km ESE of Coihueco, Chile",
+      "region": "continental",
+      "cluster": -1,
+      "posible_replica": false
+    },
+    {
+      "id": "us6000tn15",
+      "lat": -24.0298,
+      "lon": -66.8157,
+      "depth": 187.78,
+      "mag": 4.2,
+      "magType": "mb",
+      "fecha": "2026-08-23T22:58:07Z",
+      "place": "54 km WNW of San Antonio de los Cobres, Argentina",
+      "region": "continental",
+      "cluster": 40,
+      "posible_replica": false
+    },
+    {
+      "id": "us6000tn29",
+      "lat": -28.143,
+      "lon": -67.1543,
+      "depth": 129.46,
+      "mag": 4.5,
+      "magType": "mb",
+      "fecha": "2026-08-24T05:04:04Z",
+      "place": "41 km ESE of Tinogasta, Argentina",
+      "region": "continental",
+      "cluster": 6,
+      "posible_replica": false
+    },
+    {
+      "id": "us7000tbw0",
+      "lat": -25.5207,
+      "lon": -70.9248,
+      "depth": 31.75,
+      "mag": 4.2,
+      "magType": "mwr",
+      "fecha": "2026-08-26T01:37:01Z",
+      "place": "45 km WSW of Taltal, Chile",
+      "region": "continental",
+      "cluster": 18,
+      "posible_replica": false
+    },
+    {
+      "id": "us7000tbyb",
+      "lat": -26.1601,
+      "lon": -69.3386,
+      "depth": 101.06,
+      "mag": 4.3,
+      "magType": "mb",
+      "fecha": "2026-08-26T10:59:03Z",
+      "place": "75 km ENE of Diego de Almagro, Chile",
+      "region": "continental",
+      "cluster": 13,
+      "posible_replica": false
+    },
+    {
+      "id": "us7000tc3j",
+      "lat": -35.3195,
+      "lon": -71.4471,
+      "depth": 80.64,
+      "mag": 4.7,
+      "magType": "mb",
+      "fecha": "2026-08-26T22:23:12Z",
+      "place": "22 km ENE of Talca, Chile",
+      "region": "continental",
+      "cluster": 12,
+      "posible_replica": false
+    },
+    {
+      "id": "us7000tc7m",
+      "lat": -22.9043,
+      "lon": -66.1304,
+      "depth": 259.72,
+      "mag": 4.3,
+      "magType": "mb",
+      "fecha": "2026-08-27T05:53:12Z",
+      "place": "48 km WSW of Abra Pampa, Argentina",
+      "region": "continental",
+      "cluster": -1,
+      "posible_replica": false
+    },
+    {
+      "id": "us7000tcc3",
+      "lat": -17.5572,
+      "lon": -69.6195,
+      "depth": 141.96,
+      "mag": 4.5,
+      "magType": "mb",
+      "fecha": "2026-08-27T17:40:41Z",
+      "place": "42 km E of Estique, Peru",
+      "region": "continental",
+      "cluster": 49,
+      "posible_replica": false
+    },
+    {
+      "id": "us7000tcjv",
+      "lat": -21.2109,
+      "lon": -68.5089,
+      "depth": 131.35,
+      "mag": 4.6,
+      "magType": "mb",
+      "fecha": "2026-08-28T14:11:54Z",
+      "place": "26 km W of Ollagüe, Chile",
+      "region": "continental",
+      "cluster": 57,
+      "posible_replica": false
+    },
+    {
+      "id": "us7000tcpf",
+      "lat": -18.8677,
+      "lon": -69.9747,
+      "depth": 87.95,
+      "mag": 4.5,
+      "magType": "mb",
+      "fecha": "2026-08-28T20:44:36Z",
+      "place": "38 km NNE of Cuya, Chile",
+      "region": "continental",
+      "cluster": -1,
+      "posible_replica": false
+    },
+    {
+      "id": "us7000tcqp",
+      "lat": -23.9509,
+      "lon": -69.3994,
+      "depth": 77.04,
+      "mag": 4.3,
+      "magType": "mb",
+      "fecha": "2026-08-28T23:48:03Z",
+      "place": "106 km ESE of Antofagasta, Chile",
+      "region": "continental",
+      "cluster": -1,
       "posible_replica": false
     }
   ]
